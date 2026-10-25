@@ -103,8 +103,8 @@ git push -u origin main
 
 | Name | Value |
 | --- | --- |
-| `MAIL_TO` | `marshall_gefexiang@163.com` |
-| `MAIL_USERNAME` | `marshall_gefexiang@163.com` |
+| `MAIL_TO` | `marshall_gefxiang@163.com` |
+| `MAIL_USERNAME` | `marshall_gefxiang@163.com` |
 | `MAIL_PASSWORD` | 163 邮箱的 **SMTP 授权码**（不是登录密码，见下一节） |
 
 > 仓库是公开的也没关系：邮箱只存在 Secrets 里，不会出现在代码或日志中。
@@ -209,8 +209,8 @@ python -m unittest discover -s tests -v
 本地发真实邮件：
 
 ```bash
-export MAIL_TO=marshall_gefexiang@163.com
-export MAIL_USERNAME=marshall_gefexiang@163.com
+export MAIL_TO=marshall_gefxiang@163.com
+export MAIL_USERNAME=marshall_gefxiang@163.com
 export MAIL_PASSWORD='你的授权码'
 python -m hamilton_watch test-email
 ```

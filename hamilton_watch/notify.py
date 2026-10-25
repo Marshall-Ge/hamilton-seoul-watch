@@ -22,7 +22,7 @@ class NotifyError(RuntimeError):
 def send_email(cfg: NotifyConfig, subject: str, text: str, html: str) -> str:
     if not cfg.to:
         raise NotifyError(
-            "未配置收件人：请在 GitHub Secrets 里添加 MAIL_TO（例如 marshall_gefexiang@163.com），"
+            "未配置收件人：请在 GitHub Secrets 里添加 MAIL_TO（例如 marshall_gefxiang@163.com），"
             "或在 config.toml 的 [notify] 里填写 to。"
         )
     provider = (cfg.provider or "smtp").lower()
@@ -107,8 +107,15 @@ def _send_resend(cfg: NotifyConfig, subject: str, text: str, html: str) -> str:
     return "resend"
 
 
+FORM_ORIGIN = "https://hamilton-seoul-watch.example.com"
+
+
 def _send_formsubmit(cfg: NotifyConfig, subject: str, text: str, html: str) -> str:
-    """FormSubmit 无需注册即可把表单内容转发到邮箱（首次需在收件箱点一次激活链接）。"""
+    """FormSubmit 无需注册即可把表单内容转发到邮箱（首次需在收件箱点一次激活链接）。
+
+    FormSubmit 会检查请求来源，所以这里带上 Origin/Referer，
+    否则服务端请求会被当成「本地 HTML 文件」拒绝。
+    """
     response = requests.post(
         f"https://formsubmit.co/ajax/{cfg.to}",
         json={
@@ -116,8 +123,14 @@ def _send_formsubmit(cfg: NotifyConfig, subject: str, text: str, html: str) -> s
             "_subject": subject,
             "message": text,
             "_template": "box",
+            "_captcha": "false",
         },
-        headers={"Content-Type": "application/json", "Accept": "application/json"},
+        headers={
+            "Content-Type": "application/json",
+            "Accept": "application/json",
+            "Origin": FORM_ORIGIN,
+            "Referer": FORM_ORIGIN + "/",
+        },
         timeout=30,
     )
     if response.status_code >= 300:
@@ -129,6 +142,13 @@ def _send_formsubmit(cfg: NotifyConfig, subject: str, text: str, html: str) -> s
         payload = response.json()
     except ValueError:
         payload = {}
+
+    message = str(payload.get("message", ""))
+    if "activation" in message.lower():
+        raise NotifyError(
+            "FormSubmit 还需要激活：请到 163 邮箱找到 FormSubmit 发来的 "
+            "「Activate Form」邮件并点击链接，然后重新运行 test-email。"
+        )
     if payload.get("success") in {"false", False}:
         raise NotifyError(f"FormSubmit 返回失败：{payload}")
     return "formsubmit"

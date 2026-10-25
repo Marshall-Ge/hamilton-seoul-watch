@@ -31,7 +31,7 @@ smtp_host = "smtp.163.com"
 smtp_port = 465
 smtp_ssl = true
 # 账号和授权码不要写在这里，请在 GitHub Secrets 里配置：
-#   MAIL_USERNAME = marshall_gefexiang@163.com
+#   MAIL_USERNAME = marshall_gefxiang@163.com
 #   MAIL_PASSWORD = 163 邮箱的 SMTP 授权码
 username = ""
 password = ""

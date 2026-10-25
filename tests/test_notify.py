@@ -37,8 +37,8 @@ class NotifyTests(unittest.TestCase):
     def _cfg(self, **kwargs) -> NotifyConfig:
         base = dict(
             provider="smtp",
-            to="marshall_gefexiang@163.com",
-            username="marshall_gefexiang@163.com",
+            to="marshall_gefxiang@163.com",
+            username="marshall_gefxiang@163.com",
             password="auth-code",
             smtp_host="smtp.163.com",
             smtp_port=465,
@@ -54,10 +54,10 @@ class NotifyTests(unittest.TestCase):
         smtp = FakeSMTP.instances[0]
         self.assertEqual(smtp.host, "smtp.163.com")
         self.assertEqual(smtp.port, 465)
-        self.assertEqual(smtp.logged_in, ("marshall_gefexiang@163.com", "auth-code"))
+        self.assertEqual(smtp.logged_in, ("marshall_gefxiang@163.com", "auth-code"))
         message = smtp.message
-        self.assertEqual(message["To"], "marshall_gefexiang@163.com")
-        self.assertIn("marshall_gefexiang@163.com", message["From"])
+        self.assertEqual(message["To"], "marshall_gefxiang@163.com")
+        self.assertIn("marshall_gefxiang@163.com", message["From"])
         self.assertEqual(str(message["Subject"]), "测试主题")
 
     def test_missing_password_raises(self):

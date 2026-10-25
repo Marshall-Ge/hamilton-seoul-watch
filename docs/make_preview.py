@@ -25,7 +25,7 @@ CHROME = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
 
 def main() -> int:
     cfg = load_config(ROOT / "config.toml")
-    cfg.notify = NotifyConfig(provider="none", to="marshall_gefexiang@163.com")
+    cfg.notify = NotifyConfig(provider="none", to="marshall_gefxiang@163.com")
     now = datetime(2026, 12, 3, 10, 0, tzinfo=KST)
 
     board = Item(
