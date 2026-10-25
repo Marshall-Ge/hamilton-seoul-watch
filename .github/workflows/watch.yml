@@ -1,0 +1,75 @@
+name: Hamilton Seoul ticket monitor
+
+on:
+  schedule:
+    # 每 5 分钟检查一次（GitHub 的定时任务可能会有几分钟延迟）
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "运行模式"
+        required: true
+        default: "check"
+        type: choice
+        options:
+          - check
+          - digest
+          - test-email
+          - status
+
+permissions:
+  contents: write
+
+concurrency:
+  group: hamilton-seoul-watch
+  cancel-in-progress: false
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: requirements.txt
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run monitor
+        env:
+          TZ: Asia/Seoul
+          PYTHONUNBUFFERED: "1"
+          MAIL_USERNAME: ${{ secrets.MAIL_USERNAME }}
+          MAIL_PASSWORD: ${{ secrets.MAIL_PASSWORD }}
+          MAIL_TO: ${{ secrets.MAIL_TO }}
+          MAIL_PROVIDER: ${{ vars.MAIL_PROVIDER }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+        run: python -m hamilton_watch "${{ inputs.mode || 'check' }}"
+
+      - name: Persist monitor state
+        if: always()
+        run: |
+          set -e
+          git add -f state.json 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "state unchanged"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: update monitor state [skip ci]"
+          for i in 1 2 3; do
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}" && git push && exit 0
+            echo "push failed, retrying ($i/3)"
+            sleep 5
+          done
+          exit 1

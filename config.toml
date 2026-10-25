@@ -1,0 +1,77 @@
+# 汉密尔顿（Hamilton）首尔站票务监控配置
+# 修改后提交即可生效；敏感信息请放到 GitHub Secrets（见 README）。
+
+[show]
+title = "汉密尔顿 Hamilton（韩国首尔）"
+target_date = "2027-01-25"          # 你关心的场次：2027 年 1 月 25 日
+venue = "首尔 世宗文化会馆 大剧场（세종문화회관 대극장）"
+run_period = "2027-01-21 ~ 2027-03-20"
+note = "百老汇原版世界巡演韩国站；釜山 2026-12-17 ~ 2027-01-16，首尔 2027-01-21 开演。"
+
+[monitor]
+digest_every_days = 5               # 没开票时，每 5 天发一次进度
+digest_hour_kst = 10                # 进度邮件在韩国时间 10:00 之后发出（避免半夜吵你）
+re_alert_hours = 24                 # 已开票状态下，每天提醒一次，直到你停用
+announced_alert_hours = 24          # 「公布开票时间」告警的冷却时间
+startup_email = true                # 首次运行时先发一封「监控已启动」确认邮件
+state_file = "state.json"
+max_items_per_email = 8
+failure_alert_after_hours = 6       # 连续抓取失败超过 6 小时 → 发「监控异常」邮件
+failure_alert_cooldown_hours = 24
+news_window_days = 45
+
+[notify]
+# smtp：用 163 邮箱直接发（推荐，需要 163 的 SMTP 授权码）
+# resend：用 Resend API（需要 API key）
+# formsubmit：免注册转发（首次需点激活邮件，可靠性一般）
+provider = "smtp"
+to = ""   # 收件邮箱；建议用 GitHub Secret: MAIL_TO
+from_name = "汉密尔顿首尔票务监控"
+smtp_host = "smtp.163.com"
+smtp_port = 465
+smtp_ssl = true
+# 账号和授权码不要写在这里，请在 GitHub Secrets 里配置：
+#   MAIL_USERNAME = marshall_gefexiang@163.com
+#   MAIL_PASSWORD = 163 邮箱的 SMTP 授权码
+username = ""
+password = ""
+resend_from = "onboarding@resend.dev"
+
+# ---------------------------------------------------------------------------
+# 信息源
+# ---------------------------------------------------------------------------
+
+# 1) 世宗文化会馆「开票公告」板：最权威，公告里自带开票日期时间
+[[source]]
+type = "sejong_board"
+name = "sejong"
+enabled = true
+board_url = "https://www.sejongpac.or.kr/portal/bbs/B0000049/list.do?menuNo=200440"
+extra_board_urls = []
+
+# 2) Google News RSS：开票新闻，带发布时间
+[[source]]
+type = "google_news"
+name = "gnews"
+enabled = true
+queries = ["해밀턴 티켓", "해밀턴 예매", "해밀턴 내한"]
+window_days = 45
+
+# 3) Naver 综合搜索：韩国门户，新闻/博客通常最先放出风声
+[[source]]
+type = "naver_search"
+name = "naver"
+enabled = true
+queries = ["해밀턴 예매", "해밀턴 티켓 오픈"]
+limit = 20
+
+# 4) 指定页面监控（可选）：拿到 Interpark / Melon 商品页后，把 URL 填进来并改成 enabled = true
+[[source]]
+type = "page"
+name = "interpark_goods"
+enabled = false
+urls = ["https://tickets.interpark.com/goods/00000000"]
+require_keyword = "해밀턴"
+open_markers = ["예매하기", "예매중", "BOOK NOW", "좌석 선택"]
+pre_markers = ["예매 오픈 예정", "오픈 예정", "준비중"]
+force_reader = true   # 商品页多为 JS 渲染，强制走阅读器代理可拿到渲染后的文字
