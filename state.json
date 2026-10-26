@@ -1,14 +1,14 @@
 {
   "version": 1,
   "created_at": "2026-10-25T11:24:47+00:00",
-  "last_check_at": "2026-10-26T00:32:36+00:00",
-  "last_success_at": "2026-10-26T00:32:36+00:00",
+  "last_check_at": "2026-10-26T11:03:17+00:00",
+  "last_success_at": "2026-10-26T11:03:17+00:00",
   "last_status": "unknown",
   "status_since": "2026-10-25T11:24:47+00:00",
   "last_digest_at": "2026-10-25T11:24:47+00:00",
   "last_alert_at": {},
   "stats": {
-    "runs": 3,
+    "runs": 4,
     "digests": 1,
     "alerts": 0,
     "failures": 0
@@ -75,18 +75,21 @@
     "https://blog.naver.com/wait_forme/224447493258": "2026-10-25T17:54:57+00:00",
     "https://cafe.naver.com/directwedding/9329420?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRpcmVjdHdlZGRpbmciLCJhcnRpY2xlSWQiOjkzMjk0MjAsImlzc3VlZEF0IjoxNzkyOTc0NzYwNjg4fQ.DqUtqtRfh6XQ1fYSJ6Abrk6845o_nt2IH53wQ63NpPA": "2026-10-26T00:32:36+00:00",
     "https://blog.naver.com/s0ye0nnn/224445022103": "2026-10-26T00:32:36+00:00",
-    "https://blog.naver.com/bosung_foto/224445875639": "2026-10-26T00:32:36+00:00"
+    "https://blog.naver.com/bosung_foto/224445875639": "2026-10-26T00:32:36+00:00",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBzNjdSamdSMDk2UXc5MGh4aUVoVUpSNGxTdUpSbDJQNVZ4b053ZGNTVzdCN0ZGNDdUVVRHa1BqOFdrVHYyY3l5aUxpSHZRY2NIMjVkRXNYSzJ4VG5NSzQ0U3I0d1NvbDdiSVlCaQ?oc=5": "2026-10-26T11:03:17+00:00",
+    "https://cafe.naver.com/directwedding/9329420?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRpcmVjdHdlZGRpbmciLCJhcnRpY2xlSWQiOjkzMjk0MjAsImlzc3VlZEF0IjoxNzkzMDEyNjAwNzk0fQ.xfKgga9Fr_3rhI6zzfeNH77_PxAdeGLHkJUCm8iWu0w": "2026-10-26T11:03:17+00:00",
+    "https://blog.naver.com/blackpinkinseoul/224444917017": "2026-10-26T11:03:17+00:00"
   },
   "last_snapshot": {
     "status": "unknown",
     "top_titles": [
-      "브로드웨이 화제작, 한국서 통할까…뮤지컬 ‘해밀턴’이 주목받는 이유 - 동아일보",
       "'해밀턴' 첫 내한·'겨울왕국' 부산 초연…드림씨어터 무대 - 뉴시스",
       "부산 달굴 대작 뮤지컬 '광화문연가'·‘해밀턴’·‘캣츠’·‘겨울왕국’ 잇따라 상륙 - 뉴스컬처",
       "드림씨어터, ‘해밀턴’·‘겨울왕국’ 등 대작 라인업 공개 - 한국금융경제신문",
-      "뮤지컬 ‘해밀턴’ 월드투어 첫 무대는 부산…드림씨어터 4대 대작 공개 - 에너지코리아뉴스"
+      "뮤지컬 ‘해밀턴’ 월드투어 첫 무대는 부산…드림씨어터 4대 대작 공개 - 에너지코리아뉴스",
+      "부산 드림씨어터, 연말연시 라인업 공개... '해밀턴'부터 '겨울왕국'까지 - 한국증권신문"
     ],
-    "checked_at": "2026-10-26T00:32:36.910887+00:00"
+    "checked_at": "2026-10-26T11:03:17.231447+00:00"
   },
   "consecutive_failures": 0
 }
