@@ -1,16 +1,18 @@
 {
   "version": 1,
   "created_at": "2026-10-25T11:24:47+00:00",
-  "last_check_at": "2026-10-27T00:47:31+00:00",
-  "last_success_at": "2026-10-27T00:47:31+00:00",
-  "last_status": "unknown",
-  "status_since": "2026-10-25T11:24:47+00:00",
-  "last_digest_at": "2026-10-25T11:24:47+00:00",
-  "last_alert_at": {},
+  "last_check_at": "2026-10-27T05:40:19+00:00",
+  "last_success_at": "2026-10-27T05:40:19+00:00",
+  "last_status": "announced",
+  "status_since": "2026-10-27T05:40:19+00:00",
+  "last_digest_at": "2026-10-27T05:40:19+00:00",
+  "last_alert_at": {
+    "announced": "2026-10-27T05:40:19+00:00"
+  },
   "stats": {
-    "runs": 6,
+    "runs": 7,
     "digests": 1,
-    "alerts": 0,
+    "alerts": 1,
     "failures": 0
   },
   "seen": {
@@ -83,18 +85,24 @@
     "https://cafe.naver.com/directwedding/9329420?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRpcmVjdHdlZGRpbmciLCJhcnRpY2xlSWQiOjkzMjk0MjAsImlzc3VlZEF0IjoxNzkzMDM0OTc4OTQ2fQ.HMZezLKuqiiAsOw2S1D9KpuzOwSX-tJ0NSvWGnodV5k": "2026-10-26T17:16:15+00:00",
     "https://news.google.com/rss/articles/CBMiVEFVX3lxTE41RlFDTjR6eTFNamF6dnhmVEw4Skw5aVlDTHkyWmk3c2hCZzJ1bVAySkNPZG9qSWtYS2k3Y2szcURZUk1Gd0l5Y0F1cHBCOU5WMnczMA?oc=5": "2026-10-27T00:47:31+00:00",
     "https://blog.naver.com/mydolmengs/224445962398": "2026-10-27T00:47:31+00:00",
-    "https://cafe.naver.com/directwedding/9329420?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRpcmVjdHdlZGRpbmciLCJhcnRpY2xlSWQiOjkzMjk0MjAsImlzc3VlZEF0IjoxNzkzMDYyMDU1MTMyfQ.9fyOQEh7RcY2yY-zMNkbxPtpYMUoTZf8Tu-XqqURv8Q": "2026-10-27T00:47:31+00:00"
+    "https://cafe.naver.com/directwedding/9329420?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRpcmVjdHdlZGRpbmciLCJhcnRpY2xlSWQiOjkzMjk0MjAsImlzc3VlZEF0IjoxNzkzMDYyMDU1MTMyfQ.9fyOQEh7RcY2yY-zMNkbxPtpYMUoTZf8Tu-XqqURv8Q": "2026-10-27T00:47:31+00:00",
+    "https://www.sejongpac.or.kr/portal/bbs/B0000049/view.do?nttId=50223&menuNo=200440&pageIndex=1": "2026-10-27T05:40:19+00:00",
+    "https://news.google.com/rss/articles/CBMicEFVX3lxTFAwNGswRk1LT3FMRWtTSnpKXzYyNE1QcG1ITHAxdEtYd2FnZVVrQ3dCR3llb3NoY19BdnV6V2hLc0U1bmx1cnVHRkdienlOLW9JaFJNZElIQVVPM2xTUWxtRnpYY0ZDNFZhNXdQZWRSN0Q?oc=5": "2026-10-27T05:40:19+00:00",
+    "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5jal9tcjVqV25ZaWJmM3ROZXBwYUQ0TE9oNHJUOVB6YXdrSWhSR1o1Zml5dkZHTl9aSVlpYXZiZ3pTbmFOczZJRURFNkRKRlBZWEVMbGM5SkRqLUVaM2QwemdR?oc=5": "2026-10-27T05:40:19+00:00",
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMGM1TC1iUURzUEVfOURMR1d1dVE1T1NKVnZOdHF0Q2luTV9ZMERGaTJ4RE1uUnpnVlY5a2VwVVFMVGtBRTFvNUxHZ0dtRm9MTUllU2hUaGQ1d1BQRHBaYmo4dHNRWW01LTk4b2IxSDc4MGdmUV9qNVNSSFVHYTZvTVFYVWJodWphMkZjcG54YVRqTFA3V1VF?oc=5": "2026-10-27T05:40:19+00:00",
+    "https://news.google.com/rss/articles/CBMickFVX3lxTE5lM3NHendaUkdZMmY1bE5EUnJjbEhiUkZEWWJvUWNGSHFubF9JQVBUNi1OYlRuaDk0ejc5cmVQUkhyZk9VYzlxVHRienl6VzRzYkFERk9JcUw0R3RkaXJhZ1F2bkp6blZ4YVlXNTZEWjZMUQ?oc=5": "2026-10-27T05:40:19+00:00",
+    "https://cafe.naver.com/directwedding/9329420?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRpcmVjdHdlZGRpbmciLCJhcnRpY2xlSWQiOjkzMjk0MjAsImlzc3VlZEF0IjoxNzkzMDc5NjIyNjUwfQ.pY7k12V8VLW_ZmcN2Cd25O9vekKt15OYG6U4XY17Lks": "2026-10-27T05:40:19+00:00"
   },
   "last_snapshot": {
-    "status": "unknown",
+    "status": "announced",
     "top_titles": [
-      "'해밀턴' 첫 내한·'겨울왕국' 부산 초연…드림씨어터 무대 - 뉴시스",
-      "부산 달굴 대작 뮤지컬 '광화문연가'·‘해밀턴’·‘캣츠’·‘겨울왕국’ 잇따라 상륙 - 뉴스컬처",
-      "드림씨어터, ‘해밀턴’·‘겨울왕국’ 등 대작 라인업 공개 - 한국금융경제신문",
-      "뮤지컬 ‘해밀턴’ 월드투어 첫 무대는 부산…드림씨어터 4대 대작 공개 - 에너지코리아뉴스",
-      "부산 드림씨어터, 연말연시 라인업 공개... '해밀턴'부터 '겨울왕국'까지 - 한국증권신문"
+      "브로드웨이 신드롬 ‘해밀턴’ 내한 \"전 세계 주역 총출동\"...11월 11일 티켓 오픈 - 에너지코리아뉴스",
+      "뮤지컬 <해밀턴> 내한공연–서울 프리미어 티켓오픈 안내",
+      "브로드웨이 ‘해밀턴’ 드디어 한국 온다…제이슨 애로우·제이 페리 출격 - 스포츠월드",
+      "뮤지컬 ‘해밀턴’ 월드 투어, 부산·서울 내한…전 캐스트 공개 - 톱스타뉴스",
+      "'해밀턴' 첫 내한·'겨울왕국' 부산 초연…드림씨어터 무대 - 뉴시스"
     ],
-    "checked_at": "2026-10-27T00:47:31.462857+00:00"
+    "checked_at": "2026-10-27T05:40:19.543986+00:00"
   },
   "consecutive_failures": 0
 }
