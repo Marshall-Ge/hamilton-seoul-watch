@@ -1,8 +1,8 @@
 {
   "version": 1,
   "created_at": "2026-10-25T11:24:47+00:00",
-  "last_check_at": "2026-10-27T05:40:19+00:00",
-  "last_success_at": "2026-10-27T05:40:19+00:00",
+  "last_check_at": "2026-10-27T16:10:32+00:00",
+  "last_success_at": "2026-10-27T16:10:32+00:00",
   "last_status": "announced",
   "status_since": "2026-10-27T05:40:19+00:00",
   "last_digest_at": "2026-10-27T05:40:19+00:00",
@@ -10,7 +10,7 @@
     "announced": "2026-10-27T05:40:19+00:00"
   },
   "stats": {
-    "runs": 7,
+    "runs": 8,
     "digests": 1,
     "alerts": 1,
     "failures": 0
@@ -91,18 +91,32 @@
     "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5jal9tcjVqV25ZaWJmM3ROZXBwYUQ0TE9oNHJUOVB6YXdrSWhSR1o1Zml5dkZHTl9aSVlpYXZiZ3pTbmFOczZJRURFNkRKRlBZWEVMbGM5SkRqLUVaM2QwemdR?oc=5": "2026-10-27T05:40:19+00:00",
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMGM1TC1iUURzUEVfOURMR1d1dVE1T1NKVnZOdHF0Q2luTV9ZMERGaTJ4RE1uUnpnVlY5a2VwVVFMVGtBRTFvNUxHZ0dtRm9MTUllU2hUaGQ1d1BQRHBaYmo4dHNRWW01LTk4b2IxSDc4MGdmUV9qNVNSSFVHYTZvTVFYVWJodWphMkZjcG54YVRqTFA3V1VF?oc=5": "2026-10-27T05:40:19+00:00",
     "https://news.google.com/rss/articles/CBMickFVX3lxTE5lM3NHendaUkdZMmY1bE5EUnJjbEhiUkZEWWJvUWNGSHFubF9JQVBUNi1OYlRuaDk0ejc5cmVQUkhyZk9VYzlxVHRienl6VzRzYkFERk9JcUw0R3RkaXJhZ1F2bkp6blZ4YVlXNTZEWjZMUQ?oc=5": "2026-10-27T05:40:19+00:00",
-    "https://cafe.naver.com/directwedding/9329420?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRpcmVjdHdlZGRpbmciLCJhcnRpY2xlSWQiOjkzMjk0MjAsImlzc3VlZEF0IjoxNzkzMDc5NjIyNjUwfQ.pY7k12V8VLW_ZmcN2Cd25O9vekKt15OYG6U4XY17Lks": "2026-10-27T05:40:19+00:00"
+    "https://cafe.naver.com/directwedding/9329420?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRpcmVjdHdlZGRpbmciLCJhcnRpY2xlSWQiOjkzMjk0MjAsImlzc3VlZEF0IjoxNzkzMDc5NjIyNjUwfQ.pY7k12V8VLW_ZmcN2Cd25O9vekKt15OYG6U4XY17Lks": "2026-10-27T05:40:19+00:00",
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGVGtxeG5EZmVFYlJFQmIxeVZ5NXplektXNlkzRXZOZ3VjbWs4V0MxeDI0RndhQmVoYXJ6X21EOGdXNjIyWWRub1pqbnlBU1VVOERSeVJ0Y3lHZw?oc=5": "2026-10-27T16:10:32+00:00",
+    "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhNW9qdjJERm9DTGthWlVrVmVIQUVYSU9UYjdfSmRKVHBNS19jRy14RUE2TUE0eVVUcnlBcGxld2ZrZ05lMHg4ZzNOMVJWWE5FaDg0dUNLRU9UM250?oc=5": "2026-10-27T16:10:32+00:00",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE04cngwdjhFbGlwVlp4N0gyRXEwZ0wybWxWeWZBdUNDY1hqdkdrUkFxcmRoRTA0SkdjM3JFTF92WFY5NVZYV0hESUdrT1B3NWltRXFkSHJOZ3lzc0VpM1E4cE5EQ3h4ZnA3NTlHTQ?oc=5": "2026-10-27T16:10:32+00:00",
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nWmJkOTdVbWJWazY3NGVxNEhZTWxrYTBCWDFhZGlqSzVqSXM5LXNwNTVibVAzeXNvQ2dHSUk4YnBIeTEtdnNnaHY1cUZUSGpQLUNvazMtaHU3QQ?oc=5": "2026-10-27T16:10:32+00:00",
+    "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5zZTVXRFhhVW1xSjhsd3JYY1Q4ZDU0T3pDb192MlZhb1VkUUFHdlBSVGNJemdCZmJLdUJpSWpBYVhOMjlVbzFZQkdtb08xMXM3RjJPV1JWMFc?oc=5": "2026-10-27T16:10:32+00:00",
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE85SmVSREREM2pSWnFNbVRzbG5hei1mdmJhOU5ENU1rNFFIUW5ReWEyUzNFYVByeDBhX0lIcTl3dXEyc2tVSWdpRDhlYXp2bDUySFpmSw?oc=5": "2026-10-27T16:10:32+00:00",
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZTVSLU9vNkdoNDVGdE91YzE3bjNwRVhtaWRJMHRPVFVrdzNKdi1oRHNsNEtObTB5NmxoR0JPVXBoTW1wMTNwd3NIcjV6aE9yRHR6VDRJX1dfeXZZZDlsTzZpNDFtc0tYMV9vemFMM1pYbllGNXlxU2V4a0lOdm1uLQ?oc=5": "2026-10-27T16:10:32+00:00",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9vOTREUGl1OTdSdDdiTGJzNjM2Y0prY0x3UG1JZHRYMWM5R1hRSDB4NlF2WlQ1SThPRmN6bDZ5aHg1RVBweS13dUxSSjNKRWQ1ME43Q205eXNRZTVycmtXNmo0Rkc5aVBuMzVlLQ?oc=5": "2026-10-27T16:10:32+00:00",
+    "https://news.google.com/rss/articles/CBMiowJBVV95cUxOdXNJakJWblF3SjhNRWdyU1JRNS1PSE5iZm5meG50bkEtUUg1SHBCQjBfRGhWOEhaRVI2QVBETi1XM3A3SUNsekxjcGtHRTBpa2tHc3dPOFNsMjVLNlpvdTVvemYtUy1PRHE3X1VfN2I3NUE2akFiSTVlNHpuNW56VUdraUI2TVYxbFUtUGFYeUhndFZoWFh1UGMyN3B1WHFtMFI2UGR5TzRzdjM1ck1KcS1LX2ltb29uVkNHTUw2Q1lNUFBjSEhlZ0FzQ2lDVHVOcnV5S1hYcWxvMENTVkRHVWJBOHFRaDZ4Y3VkVGpjS1pROXZyeGpEOC0xd2h0YWNkSW1JT2FXalFZbXozamw1UTJXNjNzWTA4UWpaVGc1aVMzTUk?oc=5": "2026-10-27T16:10:32+00:00",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2T3R2eDY5bVBlWG44aG5VcUZQbXFuR0VOZVhJdkJhNGlwRlJNVVJldy1jN3E3dDVMMGJQREs4N2J2RXFMdGJ4ck12QVY5TzFNOWQySWl6eXFGSDh2X01lUnc0ZXYyZ25RZU1n?oc=5": "2026-10-27T16:10:32+00:00",
+    "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9xSlRfMGVUMFVVWmRodmw0Tm9jV19yNlZsVDMyYTc2YjdneTcyQkhSci1EWWFFRVJYY2lJVjA0MWVydXYyNnc?oc=5": "2026-10-27T16:10:32+00:00",
+    "https://blog.naver.com/sseryuni/224455909268": "2026-10-27T16:10:32+00:00",
+    "https://blog.naver.com/gooutside/224447567605": "2026-10-27T16:10:32+00:00",
+    "https://cafe.naver.com/directwedding/9329420?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRpcmVjdHdlZGRpbmciLCJhcnRpY2xlSWQiOjkzMjk0MjAsImlzc3VlZEF0IjoxNzkzMTE3NDM1NDI5fQ.YaZBdsvF2E3huq9iA3PPgZN8SxViO-9-7Y-Pa20Tvu0": "2026-10-27T16:10:32+00:00"
   },
   "last_snapshot": {
     "status": "announced",
     "top_titles": [
+      "“티켓 구하기 가장 힘든” 뮤지컬 ‘해밀턴’ 부산·서울 공연, 11월 11일 프리미어 티켓 오픈 - ER 이코노믹리뷰",
+      "'해밀턴' 월드 투어 캐스트 공개…부산·서울 11월 11일 티켓 오픈 - 엑스포츠뉴스",
       "브로드웨이 신드롬 ‘해밀턴’ 내한 \"전 세계 주역 총출동\"...11월 11일 티켓 오픈 - 에너지코리아뉴스",
       "뮤지컬 <해밀턴> 내한공연–서울 프리미어 티켓오픈 안내",
-      "브로드웨이 ‘해밀턴’ 드디어 한국 온다…제이슨 애로우·제이 페리 출격 - 스포츠월드",
-      "뮤지컬 ‘해밀턴’ 월드 투어, 부산·서울 내한…전 캐스트 공개 - 톱스타뉴스",
-      "'해밀턴' 첫 내한·'겨울왕국' 부산 초연…드림씨어터 무대 - 뉴시스"
+      "“티켓 구하기 가장 힘든” 뮤지컬 ‘해밀턴’ 한국 공연 캐스트 공개…제이슨 애로우·제이 페리 주연 - ER 이코노믹리뷰"
     ],
-    "checked_at": "2026-10-27T05:40:19.543986+00:00"
+    "checked_at": "2026-10-27T16:10:32.217900+00:00"
   },
   "consecutive_failures": 0
 }
