@@ -1,8 +1,8 @@
 {
   "version": 1,
   "created_at": "2026-10-25T11:24:47+00:00",
-  "last_check_at": "2026-10-27T16:10:32+00:00",
-  "last_success_at": "2026-10-27T16:10:32+00:00",
+  "last_check_at": "2026-10-27T23:59:43+00:00",
+  "last_success_at": "2026-10-27T23:59:43+00:00",
   "last_status": "announced",
   "status_since": "2026-10-27T05:40:19+00:00",
   "last_digest_at": "2026-10-27T05:40:19+00:00",
@@ -10,7 +10,7 @@
     "announced": "2026-10-27T05:40:19+00:00"
   },
   "stats": {
-    "runs": 8,
+    "runs": 9,
     "digests": 1,
     "alerts": 1,
     "failures": 0
@@ -105,7 +105,16 @@
     "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9xSlRfMGVUMFVVWmRodmw0Tm9jV19yNlZsVDMyYTc2YjdneTcyQkhSci1EWWFFRVJYY2lJVjA0MWVydXYyNnc?oc=5": "2026-10-27T16:10:32+00:00",
     "https://blog.naver.com/sseryuni/224455909268": "2026-10-27T16:10:32+00:00",
     "https://blog.naver.com/gooutside/224447567605": "2026-10-27T16:10:32+00:00",
-    "https://cafe.naver.com/directwedding/9329420?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRpcmVjdHdlZGRpbmciLCJhcnRpY2xlSWQiOjkzMjk0MjAsImlzc3VlZEF0IjoxNzkzMTE3NDM1NDI5fQ.YaZBdsvF2E3huq9iA3PPgZN8SxViO-9-7Y-Pa20Tvu0": "2026-10-27T16:10:32+00:00"
+    "https://cafe.naver.com/directwedding/9329420?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRpcmVjdHdlZGRpbmciLCJhcnRpY2xlSWQiOjkzMjk0MjAsImlzc3VlZEF0IjoxNzkzMTE3NDM1NDI5fQ.YaZBdsvF2E3huq9iA3PPgZN8SxViO-9-7Y-Pa20Tvu0": "2026-10-27T16:10:32+00:00",
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11Skxpbi1IbUZyVG10U205WFdNMTlKM2d2djVOU0lod2NRN2wwaWctOThHLWZaZFl4RlFTSHBLS2wtMEQ0TTQxMmVsVUxDajZRRElrV2NLTERqdw?oc=5": "2026-10-27T23:59:43+00:00",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFB0bmtrc0ZLUFM5ZXZSaUU4cEhWQ01LOUZJMEhwYTVWaTdhb1ZCZkx4Ql9PeC1sNEtQdE1nbkVjazV6LTJvbG9mLTVZTU8wV3FiWnVTVzZpX2psTWZkbU1aOC1zdHJjSXFaVDVF?oc=5": "2026-10-27T23:59:43+00:00",
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxQelBoMlVpWmJzZHM2ZWZEenJFeThzTVJrS1paNElmSENiUjZJWFN6aXhEcVRmS0laNnM2TU5laHh5c0pNTFRVZ0t4NEJfRDlrWU9XRXdtNnlYV2kwb3BRQ0t6R0dqX29FR3NMaVFkM0RMa2JhN05TakI3VTBObmdBOQ?oc=5": "2026-10-27T23:59:43+00:00",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0xajNIRlZpQ0pVYTJTTGJ5ZWdGbFRjbXd4ME1RbmlxQXNnRTFkbm00SUNxeVBkX0VzaTJyeWlmZno0NTRzTXptcldVZ09PZEZyU1hXR25YR3YzUmJpS0dJN1lkaFU4UQ?oc=5": "2026-10-27T23:59:43+00:00",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0wN1N3aXVmdFVNbFhqMmFyZkpTaHRRT3VYeWlGQ2hRaUVhUFJnaVJxMTZpd0w0VjYxRWdHNi16RUdHaWplVUhKN3gxdmpKdFA3OGw1aXpPWlBtQmpYQVlGQ0F1VmprUQ?oc=5": "2026-10-27T23:59:43+00:00",
+    "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1KNmtOaU5SOWxBNmRDOWVxNXo0VHB5T3BjNUpSejd1OHFyS2l0TVgtS0N3SlhLcGRGd0tKbVdSRjdZbVlzR3ktVk9GMWZQalJHUlhzMGJLakRwUGJiU09JZk1B?oc=5": "2026-10-27T23:59:43+00:00",
+    "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41cmVpQlhyNFZibjk0VllQQ3BUQld6MnF4YkgyVF9GcW5wZVNSQk00TWJVdldHUDRVc0dINW10RHVNakJxWTh1QkFRYURBMWRsem81S1pjaWpRNmtWTEwwMtIBeEFVX3lxTE9uUGNKeTNJYnAzUEZsM0VYWWh2WktyTW5ZdVFROERjSzREb3ZsY3ZJU1hUQXRyZzI3bGJhdHJtZDdVYUllS2xZSmpCVDFJMzVhd3B4bW5fUFlMZHdFeTg2Q3JqSERLYUlRUV9sTXhKTmwxTld5SDRvbg?oc=5": "2026-10-27T23:59:43+00:00",
+    "https://cafe.naver.com/directwedding/9329420?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRpcmVjdHdlZGRpbmciLCJhcnRpY2xlSWQiOjkzMjk0MjAsImlzc3VlZEF0IjoxNzkzMTQ1NTg3MzYzfQ.u3eaVv0ivpfNIpbdHDfcCxLFYL3jrjHffUziycJPibk": "2026-10-27T23:59:43+00:00",
+    "https://blog.naver.com/rbngpw/224448407091": "2026-10-27T23:59:43+00:00"
   },
   "last_snapshot": {
     "status": "announced",
@@ -114,9 +123,9 @@
       "'해밀턴' 월드 투어 캐스트 공개…부산·서울 11월 11일 티켓 오픈 - 엑스포츠뉴스",
       "브로드웨이 신드롬 ‘해밀턴’ 내한 \"전 세계 주역 총출동\"...11월 11일 티켓 오픈 - 에너지코리아뉴스",
       "뮤지컬 <해밀턴> 내한공연–서울 프리미어 티켓오픈 안내",
-      "“티켓 구하기 가장 힘든” 뮤지컬 ‘해밀턴’ 한국 공연 캐스트 공개…제이슨 애로우·제이 페리 주연 - ER 이코노믹리뷰"
+      "뮤지컬 '해밀턴' 첫 내한…제이슨 애로우·제이 페리 출연 - 뉴시스"
     ],
-    "checked_at": "2026-10-27T16:10:32.217900+00:00"
+    "checked_at": "2026-10-27T23:59:43.380606+00:00"
   },
   "consecutive_failures": 0
 }
