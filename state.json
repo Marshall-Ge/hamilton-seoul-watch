@@ -1,8 +1,8 @@
 {
   "version": 1,
   "created_at": "2026-10-25T11:24:47+00:00",
-  "last_check_at": "2026-10-27T23:59:43+00:00",
-  "last_success_at": "2026-10-27T23:59:43+00:00",
+  "last_check_at": "2026-10-28T10:42:16+00:00",
+  "last_success_at": "2026-10-28T10:42:16+00:00",
   "last_status": "announced",
   "status_since": "2026-10-27T05:40:19+00:00",
   "last_digest_at": "2026-10-27T05:40:19+00:00",
@@ -10,7 +10,7 @@
     "announced": "2026-10-27T05:40:19+00:00"
   },
   "stats": {
-    "runs": 9,
+    "runs": 10,
     "digests": 1,
     "alerts": 1,
     "failures": 0
@@ -114,7 +114,15 @@
     "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1KNmtOaU5SOWxBNmRDOWVxNXo0VHB5T3BjNUpSejd1OHFyS2l0TVgtS0N3SlhLcGRGd0tKbVdSRjdZbVlzR3ktVk9GMWZQalJHUlhzMGJLakRwUGJiU09JZk1B?oc=5": "2026-10-27T23:59:43+00:00",
     "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41cmVpQlhyNFZibjk0VllQQ3BUQld6MnF4YkgyVF9GcW5wZVNSQk00TWJVdldHUDRVc0dINW10RHVNakJxWTh1QkFRYURBMWRsem81S1pjaWpRNmtWTEwwMtIBeEFVX3lxTE9uUGNKeTNJYnAzUEZsM0VYWWh2WktyTW5ZdVFROERjSzREb3ZsY3ZJU1hUQXRyZzI3bGJhdHJtZDdVYUllS2xZSmpCVDFJMzVhd3B4bW5fUFlMZHdFeTg2Q3JqSERLYUlRUV9sTXhKTmwxTld5SDRvbg?oc=5": "2026-10-27T23:59:43+00:00",
     "https://cafe.naver.com/directwedding/9329420?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRpcmVjdHdlZGRpbmciLCJhcnRpY2xlSWQiOjkzMjk0MjAsImlzc3VlZEF0IjoxNzkzMTQ1NTg3MzYzfQ.u3eaVv0ivpfNIpbdHDfcCxLFYL3jrjHffUziycJPibk": "2026-10-27T23:59:43+00:00",
-    "https://blog.naver.com/rbngpw/224448407091": "2026-10-27T23:59:43+00:00"
+    "https://blog.naver.com/rbngpw/224448407091": "2026-10-27T23:59:43+00:00",
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1jVjRDNmRoMjYzQnlVclBkNWZBbjFVSm5SUXU5elFEUUtGVnk5ZmdwV1MxYXV4WGFpWDZXRlN3cVlLSWFlQlZwZEVJa2tlREREa09tTQ?oc=5": "2026-10-28T10:42:16+00:00",
+    "https://news.google.com/rss/articles/CBMickFVX3lxTFBKNHEwNHNielpfSkRvN3NHeU5UYlFRa25JUnU1bW9aOEJDUFFMYjctakNMeUFZRnE5d3pZVFFpdlRWQXZaRFhqMFRCWVV2WDlpZWowRzFia00zdVlobFNVRXlsTzJKRHZ2RjJEeFBwLTVjZw?oc=5": "2026-10-28T10:42:16+00:00",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE56MjBsOXE3X0otNVA1b2Rtd3RMRHNLenRBcjBfSmxzSFRvZS12bURGZ3NaVzZ3bFNZNUdwMXBSU2RrYTBwT0NKbWlwQkpGSHRLTXlhYVRvTkZjRS0xTGc?oc=5": "2026-10-28T10:42:16+00:00",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLM2RzQjA0NnhQU25FNnVYcEx2SndQdG5WYTRkN251Umx1bmpWOXdVbVJUamtvQ0ptRUt6Z2gtNUNSdzJQd2tIdndrNnVfSUR2ODhuWUtR?oc=5": "2026-10-28T10:42:16+00:00",
+    "https://blog.naver.com/blu2sky7/224456427456": "2026-10-28T10:42:16+00:00",
+    "https://blog.naver.com/mys825/224445451636": "2026-10-28T10:42:16+00:00",
+    "https://blog.naver.com/653864/224456221733": "2026-10-28T10:42:16+00:00",
+    "https://cafe.naver.com/directwedding/9329420?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRpcmVjdHdlZGRpbmciLCJhcnRpY2xlSWQiOjkzMjk0MjAsImlzc3VlZEF0IjoxNzkzMTg0MTM5NjE2fQ.AKkJWhYXugd3LkBX_Vvb1n4KJvbpR3nMvjqdQ66I2eY": "2026-10-28T10:42:16+00:00"
   },
   "last_snapshot": {
     "status": "announced",
@@ -123,9 +131,9 @@
       "'해밀턴' 월드 투어 캐스트 공개…부산·서울 11월 11일 티켓 오픈 - 엑스포츠뉴스",
       "브로드웨이 신드롬 ‘해밀턴’ 내한 \"전 세계 주역 총출동\"...11월 11일 티켓 오픈 - 에너지코리아뉴스",
       "뮤지컬 <해밀턴> 내한공연–서울 프리미어 티켓오픈 안내",
-      "뮤지컬 '해밀턴' 첫 내한…제이슨 애로우·제이 페리 출연 - 뉴시스"
+      "뮤지컬 < 해밀턴 > 월드투어(오리지널 내한) - 부산 & 서울 공연 기본정보 & 티켓오픈(줄거리, 주요 ...."
     ],
-    "checked_at": "2026-10-27T23:59:43.380606+00:00"
+    "checked_at": "2026-10-28T10:42:16.352267+00:00"
   },
   "consecutive_failures": 0
 }
