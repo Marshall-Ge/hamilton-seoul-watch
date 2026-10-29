@@ -1,8 +1,8 @@
 {
   "version": 1,
   "created_at": "2026-10-25T11:24:47+00:00",
-  "last_check_at": "2026-10-29T06:57:26+00:00",
-  "last_success_at": "2026-10-29T06:57:26+00:00",
+  "last_check_at": "2026-10-29T13:54:03+00:00",
+  "last_success_at": "2026-10-29T13:54:03+00:00",
   "last_status": "on_sale",
   "status_since": "2026-10-29T06:57:26+00:00",
   "last_digest_at": "2026-10-29T06:57:26+00:00",
@@ -11,7 +11,7 @@
     "on_sale": "2026-10-29T06:57:26+00:00"
   },
   "stats": {
-    "runs": 13,
+    "runs": 14,
     "digests": 1,
     "alerts": 2,
     "failures": 0
@@ -149,7 +149,12 @@
     "https://blog.naver.com/dears_91/224455710883": "2026-10-29T06:57:26+00:00",
     "https://blog.naver.com/rhkdtnr0925/224456524967": "2026-10-29T06:57:26+00:00",
     "https://blog.naver.com/space_247/224456215893": "2026-10-29T06:57:26+00:00",
-    "https://blog.naver.com/bomiwon63/224456570438": "2026-10-29T06:57:26+00:00"
+    "https://blog.naver.com/bomiwon63/224456570438": "2026-10-29T06:57:26+00:00",
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlZlZja0o4YUxMYTExczd3anplTVFPWUxUbE94Z053MTlpaGU0M1NGTXpnTTJTLVZ1RDJfa1M2SVVyYkJpMV9yUENzY1huWThCLU1FdVpkR1BGdw?oc=5": "2026-10-29T13:54:03+00:00",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tRjNaeHdYdUlTRk1mWlBRa2dHa1NjSmRFQjY3ZkxnQ2s4V1ZaWHgxRXljQWZwZzc3QW1uYjVmYXFlWjV0NU9XU254cEJGQmtfX2ZEaFpQdmRPVG8?oc=5": "2026-10-29T13:54:03+00:00",
+    "https://m.naver.com/shorts/?mediaType=VOD&recId=%7B%22query%22%3A%22%ED%95%B4%EB%B0%80%ED%84%B4+%EC%98%88%EB%A7%A4%22%2C%22seedIndex%22%3A%222%22%2C%22type%22%3A%22ALL%22%2C%22order%22%3A%22RELATED%22%2C%22filter%22%3A%22LOW_QUALITY_LEVEL_3%22%2C%22now%22%3A%220%22%7D&recType=CLIP_SEARCH&seedMediaId=697D2CD9CEFB2ACB73880FC3B833223888E9&serviceType=NTV": "2026-10-29T13:54:03+00:00",
+    "https://blog.naver.com/hye_ong86/224457710777": "2026-10-29T13:54:03+00:00",
+    "https://blog.naver.com/slowautumnn/224455873581": "2026-10-29T13:54:03+00:00"
   },
   "last_snapshot": {
     "status": "on_sale",
@@ -160,7 +165,7 @@
       "“티켓 구하기 가장 힘든” 뮤지컬 ‘해밀턴’ 부산·서울 공연, 11월 11일 프리미어 티켓 오픈 - ER 이코노믹리뷰",
       "'해밀턴' 월드 투어 캐스트 공개…부산·서울 11월 11일 티켓 오픈 - 엑스포츠뉴스"
     ],
-    "checked_at": "2026-10-29T06:57:26.554015+00:00"
+    "checked_at": "2026-10-29T13:54:03.614262+00:00"
   },
   "consecutive_failures": 0
 }
