@@ -1,8 +1,8 @@
 {
   "version": 1,
   "created_at": "2026-10-25T11:24:47+00:00",
-  "last_check_at": "2026-10-28T16:49:56+00:00",
-  "last_success_at": "2026-10-28T16:49:56+00:00",
+  "last_check_at": "2026-10-29T01:03:53+00:00",
+  "last_success_at": "2026-10-29T01:03:53+00:00",
   "last_status": "announced",
   "status_since": "2026-10-27T05:40:19+00:00",
   "last_digest_at": "2026-10-27T05:40:19+00:00",
@@ -10,7 +10,7 @@
     "announced": "2026-10-27T05:40:19+00:00"
   },
   "stats": {
-    "runs": 11,
+    "runs": 12,
     "digests": 1,
     "alerts": 1,
     "failures": 0
@@ -128,18 +128,19 @@
     "https://news.google.com/rss/articles/CBMiZEFVX3lxTE95VUVqbmpWTVA5QWpBOEZhMTZvaHdMZ0IxMXFxNXhTVzlPbkl1VHBsZmJfTVhPbV9BTE1MZm5MT2N6WFBRd09GVUJJT0FQeDZfZXFPR2Q4RmZZN1A4RFpvQ2NGMk3SAWRBVV95cUxPeVVFam5qVk1QOUFqQThGYTE2b2h3TGdCMTFxcTV4U1c5T25JdVRwbGZiX01YT21fQUxNTGZuTE9jelhQUXdPRlVCSU9BUHg2X2VxT0dkOEZmWTdQOERab0NjRjJN?oc=5": "2026-10-28T16:49:56+00:00",
     "https://blog.naver.com/hunimoya/224457089235": "2026-10-28T16:49:56+00:00",
     "https://www.broadwayshow.co.kr/": "2026-10-28T16:49:56+00:00",
-    "https://cafe.naver.com/directwedding/9329420?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRpcmVjdHdlZGRpbmciLCJhcnRpY2xlSWQiOjkzMjk0MjAsImlzc3VlZEF0IjoxNzkzMjA2MTk5NDE2fQ.JnGlKnY8myPcFQxcs73GdTL5cDM94AJBXA_e-lAPHTs": "2026-10-28T16:49:56+00:00"
+    "https://cafe.naver.com/directwedding/9329420?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRpcmVjdHdlZGRpbmciLCJhcnRpY2xlSWQiOjkzMjk0MjAsImlzc3VlZEF0IjoxNzkzMjA2MTk5NDE2fQ.JnGlKnY8myPcFQxcs73GdTL5cDM94AJBXA_e-lAPHTs": "2026-10-28T16:49:56+00:00",
+    "https://cafe.naver.com/directwedding/9329420?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRpcmVjdHdlZGRpbmciLCJhcnRpY2xlSWQiOjkzMjk0MjAsImlzc3VlZEF0IjoxNzkzMjM1ODM2NjY5fQ.F1h-lb047WUSeOmA5nPZV32gts0j0IzMiGodTmHjU6s": "2026-10-29T01:03:53+00:00"
   },
   "last_snapshot": {
     "status": "announced",
     "top_titles": [
-      "브로드웨이 신드롬 '해밀턴'월드 투어 캐스트 공개 부산/서울 프리미어 11/11 티켓 오픈:내외신문 - 내외신문",
       "“티켓 구하기 가장 힘든” 뮤지컬 ‘해밀턴’ 부산·서울 공연, 11월 11일 프리미어 티켓 오픈 - ER 이코노믹리뷰",
       "'해밀턴' 월드 투어 캐스트 공개…부산·서울 11월 11일 티켓 오픈 - 엑스포츠뉴스",
       "브로드웨이 신드롬 ‘해밀턴’ 내한 \"전 세계 주역 총출동\"...11월 11일 티켓 오픈 - 에너지코리아뉴스",
-      "뮤지컬 <해밀턴> 내한공연–서울 프리미어 티켓오픈 안내"
+      "뮤지컬 <해밀턴> 내한공연–서울 프리미어 티켓오픈 안내",
+      "뮤지컬 < 해밀턴 > 월드투어(오리지널 내한) - 부산 & 서울 공연 기본정보 & 티켓오픈(줄거리, 주요 ...."
     ],
-    "checked_at": "2026-10-28T16:49:56.231661+00:00"
+    "checked_at": "2026-10-29T01:03:53.606380+00:00"
   },
   "consecutive_failures": 0
 }
