@@ -1,8 +1,8 @@
 {
   "version": 1,
   "created_at": "2026-10-25T11:24:47+00:00",
-  "last_check_at": "2026-10-29T13:54:03+00:00",
-  "last_success_at": "2026-10-29T13:54:03+00:00",
+  "last_check_at": "2026-10-29T23:21:22+00:00",
+  "last_success_at": "2026-10-29T23:21:22+00:00",
   "last_status": "on_sale",
   "status_since": "2026-10-29T06:57:26+00:00",
   "last_digest_at": "2026-10-29T06:57:26+00:00",
@@ -11,7 +11,7 @@
     "on_sale": "2026-10-29T06:57:26+00:00"
   },
   "stats": {
-    "runs": 14,
+    "runs": 15,
     "digests": 1,
     "alerts": 2,
     "failures": 0
@@ -154,18 +154,22 @@
     "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tRjNaeHdYdUlTRk1mWlBRa2dHa1NjSmRFQjY3ZkxnQ2s4V1ZaWHgxRXljQWZwZzc3QW1uYjVmYXFlWjV0NU9XU254cEJGQmtfX2ZEaFpQdmRPVG8?oc=5": "2026-10-29T13:54:03+00:00",
     "https://m.naver.com/shorts/?mediaType=VOD&recId=%7B%22query%22%3A%22%ED%95%B4%EB%B0%80%ED%84%B4+%EC%98%88%EB%A7%A4%22%2C%22seedIndex%22%3A%222%22%2C%22type%22%3A%22ALL%22%2C%22order%22%3A%22RELATED%22%2C%22filter%22%3A%22LOW_QUALITY_LEVEL_3%22%2C%22now%22%3A%220%22%7D&recType=CLIP_SEARCH&seedMediaId=697D2CD9CEFB2ACB73880FC3B833223888E9&serviceType=NTV": "2026-10-29T13:54:03+00:00",
     "https://blog.naver.com/hye_ong86/224457710777": "2026-10-29T13:54:03+00:00",
-    "https://blog.naver.com/slowautumnn/224455873581": "2026-10-29T13:54:03+00:00"
+    "https://blog.naver.com/slowautumnn/224455873581": "2026-10-29T13:54:03+00:00",
+    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OODVsSGFvM3kweTRSVVEyOUFVLWhlSk9NbDJ1MnVYVnI4dXNkTUlJVTdBdXY2SmQ3cWpEazRlbnlxRkZQM0RtNElUUGY3Z09hX1U2LVdyUQ?oc=5": "2026-10-29T23:21:22+00:00",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GaGp3bEd4WVZYS2xIcGVxdVEta3MwQndlVGt4ZG4xZEpoSXNwMG5ucUYwSFluaW1HSXlYZGtkbE1SUzVXUE16dDB4MF94cV8wUFRTY0NPVXEtTUFGemZuMy1wc2FJMkRmSVHSAW5BVV95cUxPTnpMTnVxeW05eGc1TmNaQnVtRlNDYWJqbXRBeDVKc2ZCVTNTaEV1ZktERXRkaEVWLTdWSHNzNUdhX3VnTVcwc1Y1NDNQcmtwdGZaakZ4MEtIOVRpLVBJQ0ZrZFkyOUhpcFl4TUI1Zw?oc=5": "2026-10-29T23:21:22+00:00",
+    "https://blog.naver.com/yiovo/224456284155": "2026-10-29T23:21:22+00:00",
+    "https://blog.naver.com/ppung11/224457929347": "2026-10-29T23:21:22+00:00"
   },
   "last_snapshot": {
     "status": "on_sale",
     "top_titles": [
-      "뮤지컬 해밀턴 내한 서울 부산 티켓오픈 시간 및 예매 팁",
       "뮤지컬 해밀턴 드디어 한국 상륙! 서울·부산 티켓팅 시간부터 가격까지 총정리",
+      "뮤지컬 해밀턴 내한 서울 부산 티켓오픈 시간 및 예매 팁",
       "뮤지컬 헤밀턴 (Musical HAMILTON) 내한공연 티켓팅 | 토니상 11관왕 브로드웨이 신화, 11/11 부산·서울 ....",
       "“티켓 구하기 가장 힘든” 뮤지컬 ‘해밀턴’ 부산·서울 공연, 11월 11일 프리미어 티켓 오픈 - ER 이코노믹리뷰",
       "'해밀턴' 월드 투어 캐스트 공개…부산·서울 11월 11일 티켓 오픈 - 엑스포츠뉴스"
     ],
-    "checked_at": "2026-10-29T13:54:03.614262+00:00"
+    "checked_at": "2026-10-29T23:21:22.989277+00:00"
   },
   "consecutive_failures": 0
 }
