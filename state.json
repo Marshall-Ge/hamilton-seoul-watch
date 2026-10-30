@@ -1,19 +1,19 @@
 {
   "version": 1,
   "created_at": "2026-10-25T11:24:47+00:00",
-  "last_check_at": "2026-10-29T23:21:22+00:00",
-  "last_success_at": "2026-10-29T23:21:22+00:00",
+  "last_check_at": "2026-10-30T08:58:58+00:00",
+  "last_success_at": "2026-10-30T08:58:58+00:00",
   "last_status": "on_sale",
   "status_since": "2026-10-29T06:57:26+00:00",
-  "last_digest_at": "2026-10-29T06:57:26+00:00",
+  "last_digest_at": "2026-10-30T08:58:58+00:00",
   "last_alert_at": {
     "announced": "2026-10-27T05:40:19+00:00",
-    "on_sale": "2026-10-29T06:57:26+00:00"
+    "on_sale": "2026-10-30T08:58:58+00:00"
   },
   "stats": {
-    "runs": 15,
+    "runs": 16,
     "digests": 1,
-    "alerts": 2,
+    "alerts": 3,
     "failures": 0
   },
   "seen": {
@@ -158,18 +158,28 @@
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OODVsSGFvM3kweTRSVVEyOUFVLWhlSk9NbDJ1MnVYVnI4dXNkTUlJVTdBdXY2SmQ3cWpEazRlbnlxRkZQM0RtNElUUGY3Z09hX1U2LVdyUQ?oc=5": "2026-10-29T23:21:22+00:00",
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GaGp3bEd4WVZYS2xIcGVxdVEta3MwQndlVGt4ZG4xZEpoSXNwMG5ucUYwSFluaW1HSXlYZGtkbE1SUzVXUE16dDB4MF94cV8wUFRTY0NPVXEtTUFGemZuMy1wc2FJMkRmSVHSAW5BVV95cUxPTnpMTnVxeW05eGc1TmNaQnVtRlNDYWJqbXRBeDVKc2ZCVTNTaEV1ZktERXRkaEVWLTdWSHNzNUdhX3VnTVcwc1Y1NDNQcmtwdGZaakZ4MEtIOVRpLVBJQ0ZrZFkyOUhpcFl4TUI1Zw?oc=5": "2026-10-29T23:21:22+00:00",
     "https://blog.naver.com/yiovo/224456284155": "2026-10-29T23:21:22+00:00",
-    "https://blog.naver.com/ppung11/224457929347": "2026-10-29T23:21:22+00:00"
+    "https://blog.naver.com/ppung11/224457929347": "2026-10-29T23:21:22+00:00",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZLVBQbkk3c1pBVDVlRFlUeWZxUHdnOVdsTXVmOW1nLTN4Z2FWakE4dndTUW5CZW9HLXR4TlNlYnN0d20wLUZCX2RLYVpGTUdtd0pTWndn?oc=5": "2026-10-30T08:58:58+00:00",
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA4RnlEaDU5SkoxTlpXVTRQSFNqTGM1U3N1aDM3T3d5ZGw1aGRoci1WWDEyM2pyc283MVYycXFmYWZtUDJCUWRwZ0FQZzhnemtPTXl1dHN4WUF4dGE4a2RTSElUTnkxWExl?oc=5": "2026-10-30T08:58:58+00:00",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1GZ0hhc1JYNndDdGtyWE5vTzZ1Q3B6azZKQTlHT1lLQVcxWU94VlRpYnpTSThXZlZ3aEF5b2kyYkN3SVY2OUtJMDVIdzM1aHJjMEpuY3JERXRqX0dXeWtKSVdqTnNEdw?oc=5": "2026-10-30T08:58:58+00:00",
+    "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBOdldMYS03dTNKRzVJQ1R6SUl6UHpyRXR0SERiYklCdHMxRzB0SVVDR3ViRFQ4bVpYWEs3Ymg5SXVCVmhWbG83MHpCM0E2NzItVmZjeW9Obw?oc=5": "2026-10-30T08:58:58+00:00",
+    "https://blog.naver.com/ayuda98/224458703002": "2026-10-30T08:58:58+00:00",
+    "https://www.seoul.co.kr/news/life/performance/2026/10/30/20261030500252?wlog_tag3=naver": "2026-10-30T08:58:58+00:00",
+    "http://www.beyondpost.co.kr/view.php?ud=202610301123006965d3244b4fed_30": "2026-10-30T08:58:58+00:00",
+    "https://www.slist.kr/news/articleView.html?idxno=777768": "2026-10-30T08:58:58+00:00",
+    "https://www.fnnews.com/news/202610291608375638": "2026-10-30T08:58:58+00:00",
+    "https://www.news1.kr/life-culture/performance-exhibition/6334088": "2026-10-30T08:58:58+00:00"
   },
   "last_snapshot": {
     "status": "on_sale",
     "top_titles": [
       "뮤지컬 해밀턴 드디어 한국 상륙! 서울·부산 티켓팅 시간부터 가격까지 총정리",
       "뮤지컬 해밀턴 내한 서울 부산 티켓오픈 시간 및 예매 팁",
+      "【신작】 뮤지컬 해밀턴 내한 공연 : 2026.11.11 (수) 프리미어 티켓 오픈 / 14시 부산 공연 예매 , 15시 ....",
       "뮤지컬 헤밀턴 (Musical HAMILTON) 내한공연 티켓팅 | 토니상 11관왕 브로드웨이 신화, 11/11 부산·서울 ....",
-      "“티켓 구하기 가장 힘든” 뮤지컬 ‘해밀턴’ 부산·서울 공연, 11월 11일 프리미어 티켓 오픈 - ER 이코노믹리뷰",
-      "'해밀턴' 월드 투어 캐스트 공개…부산·서울 11월 11일 티켓 오픈 - 엑스포츠뉴스"
+      "“티켓 구하기 가장 힘든” 뮤지컬 ‘해밀턴’ 부산·서울 공연, 11월 11일 프리미어 티켓 오픈 - ER 이코노믹리뷰"
     ],
-    "checked_at": "2026-10-29T23:21:22.989277+00:00"
+    "checked_at": "2026-10-30T08:58:58.537488+00:00"
   },
   "consecutive_failures": 0
 }
