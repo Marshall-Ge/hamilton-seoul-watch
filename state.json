@@ -1,19 +1,19 @@
 {
   "version": 1,
   "created_at": "2026-10-25T11:24:47+00:00",
-  "last_check_at": "2026-10-31T08:53:17+00:00",
-  "last_success_at": "2026-10-31T08:53:17+00:00",
+  "last_check_at": "2026-10-31T14:51:18+00:00",
+  "last_success_at": "2026-10-31T14:51:18+00:00",
   "last_status": "on_sale",
   "status_since": "2026-10-29T06:57:26+00:00",
-  "last_digest_at": "2026-10-30T08:58:58+00:00",
+  "last_digest_at": "2026-10-31T14:51:18+00:00",
   "last_alert_at": {
     "announced": "2026-10-27T05:40:19+00:00",
-    "on_sale": "2026-10-30T08:58:58+00:00"
+    "on_sale": "2026-10-31T14:51:18+00:00"
   },
   "stats": {
-    "runs": 19,
+    "runs": 20,
     "digests": 1,
-    "alerts": 3,
+    "alerts": 4,
     "failures": 0
   },
   "seen": {
@@ -173,18 +173,21 @@
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NUlFWa2VGVFBybzdjM1lTbVhydGRiN1NxTTF2bE12blI5YUFXOVhkbzZBTGprM2FRR0JPcXFUNUZ4cHcyejJxcVdaMno3NTI4b3phTThpVk9QZ0hac3dDeWRGTGVlcUJwZUpSedIBcEFVX3lxTE5uYnBUek5IYm44cl9NaHFuOUVZRVVVSVhzMGx1WDA3OTF5bnFJWG1YM0JWaUdPWTdQcFJERURQODU5RkhXdmhkdGlRa2pucVV5Wi05elhMRnlMbUJTTmJhQ01sQ1pXYnNfYjM5VFRPMUo?oc=5": "2026-10-31T08:53:17+00:00",
     "https://blog.naver.com/tiltedb/224459781264": "2026-10-31T08:53:17+00:00",
     "https://www.kfenews.co.kr/news/articleView.html?idxno=667318": "2026-10-31T08:53:17+00:00",
-    "http://www.withinnews.co.kr/news/view.html?section=9&category=126&item=&no=40855": "2026-10-31T08:53:17+00:00"
+    "http://www.withinnews.co.kr/news/view.html?section=9&category=126&item=&no=40855": "2026-10-31T08:53:17+00:00",
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1hcFowbGlxVWdXLTNhQklqWVRObkkzNm8wZTh2NkNxLXlOcWlOeXRFT2lmUkhSeDM1TXBfYXFOSmFsa1lOZGdxYWJFX2V0QXFaYlVjX2c0Q21Xc05yWjZ6Qm0tS3BOUHQ0?oc=5": "2026-10-31T14:51:18+00:00",
+    "https://blog.naver.com/nowjm1003/224460487383": "2026-10-31T14:51:18+00:00",
+    "https://blog.naver.com/ktwsoul/224460307310": "2026-10-31T14:51:18+00:00"
   },
   "last_snapshot": {
     "status": "on_sale",
     "top_titles": [
       "뮤지컬 해밀턴 드디어 한국 상륙! 서울·부산 티켓팅 시간부터 가격까지 총정리",
-      "【신작】 뮤지컬 해밀턴 내한 공연 : 2026.11.11 (수) 프리미어 티켓 오픈 / 14시 부산 공연 예매 , 15시 ....",
       "뮤지컬 헤밀턴 (Musical HAMILTON) 내한공연 티켓팅 | 토니상 11관왕 브로드웨이 신화, 11/11 부산·서울 ....",
       "“티켓 구하기 가장 힘든” 뮤지컬 ‘해밀턴’ 부산·서울 공연, 11월 11일 프리미어 티켓 오픈 - ER 이코노믹리뷰",
-      "'해밀턴' 월드 투어 캐스트 공개…부산·서울 11월 11일 티켓 오픈 - 엑스포츠뉴스"
+      "'해밀턴' 월드 투어 캐스트 공개…부산·서울 11월 11일 티켓 오픈 - 엑스포츠뉴스",
+      "브로드웨이 신드롬 ‘해밀턴’ 내한 \"전 세계 주역 총출동\"...11월 11일 티켓 오픈 - 에너지코리아뉴스"
     ],
-    "checked_at": "2026-10-31T08:53:17.040488+00:00"
+    "checked_at": "2026-10-31T14:51:18.774251+00:00"
   },
   "consecutive_failures": 0
 }
