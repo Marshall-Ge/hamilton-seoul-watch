@@ -1,19 +1,19 @@
 {
   "version": 1,
   "created_at": "2026-10-25T11:24:47+00:00",
-  "last_check_at": "2026-11-01T06:48:42+00:00",
-  "last_success_at": "2026-11-01T06:48:42+00:00",
-  "last_status": "on_sale",
-  "status_since": "2026-10-29T06:57:26+00:00",
-  "last_digest_at": "2026-10-31T14:51:18+00:00",
+  "last_check_at": "2026-11-01T13:50:07+00:00",
+  "last_success_at": "2026-11-01T13:50:07+00:00",
+  "last_status": "announced",
+  "status_since": "2026-11-01T13:50:07+00:00",
+  "last_digest_at": "2026-11-01T13:50:07+00:00",
   "last_alert_at": {
-    "announced": "2026-10-27T05:40:19+00:00",
+    "announced": "2026-11-01T13:50:07+00:00",
     "on_sale": "2026-10-31T14:51:18+00:00"
   },
   "stats": {
-    "runs": 22,
+    "runs": 23,
     "digests": 1,
-    "alerts": 4,
+    "alerts": 5,
     "failures": 0
   },
   "seen": {
@@ -183,18 +183,21 @@
     "https://blog.naver.com/gooutside/224461092849": "2026-11-01T06:48:42+00:00",
     "https://blog.naver.com/ouwang11/224460641403": "2026-11-01T06:48:42+00:00",
     "https://blog.naver.com/challenge_a/224461149938": "2026-11-01T06:48:42+00:00",
-    "https://blog.naver.com/ura2014_kjt/224460412176": "2026-11-01T06:48:42+00:00"
+    "https://blog.naver.com/ura2014_kjt/224460412176": "2026-11-01T06:48:42+00:00",
+    "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NX0R3S0hicDJhbkJWUGVxelNZMWJYeW1mOWJEUXVDZGdEdl9SMUtfVzU5YzZNOUZRVFFrc2Z0VzBLQ1R1b29OWDlEUDMwQzlQRUdLZW1NbUdibjhsX1BZTjVOb2piLWtYSDNOanpWVlg?oc=5": "2026-11-01T13:50:07+00:00",
+    "https://blog.naver.com/mimature/224461241607": "2026-11-01T13:50:07+00:00",
+    "https://blog.naver.com/todaybaekseo/224461368517": "2026-11-01T13:50:07+00:00"
   },
   "last_snapshot": {
-    "status": "on_sale",
+    "status": "announced",
     "top_titles": [
-      "뮤지컬 해밀턴 드디어 한국 상륙! 서울·부산 티켓팅 시간부터 가격까지 총정리",
-      "뮤지컬 해밀턴 내한 서울 부산 티켓오픈 시간 및 예매 팁",
+      "뮤지컬 해밀턴 내한 티켓 오픈은 11월 11일｜서울 오후 3시·부산 오후 2시, 가격과 날짜 한눈에",
       "브로드웨이 신드롬 ‘ 해밀턴 ’ 내한 \"전 세계 주역 총출동\"...11월 11일 티켓 오픈",
       "해밀턴 내한공연 첫 상륙! 11월 11일 티켓오픈·좌석 가격",
-      "【신작】 뮤지컬 해밀턴 내한 공연 : 2026.11.11 (수) 프리미어 티켓 오픈 / 14시 부산 공연 예매 , 15시 ...."
+      "【신작】 뮤지컬 해밀턴 내한 공연 : 2026.11.11 (수) 프리미어 티켓 오픈 / 14시 부산 공연 예매 , 15시 ....",
+      "“티켓 구하기 가장 힘든” 뮤지컬 ‘해밀턴’ 부산·서울 공연, 11월 11일 프리미어 티켓 오픈 - ER 이코노믹리뷰"
     ],
-    "checked_at": "2026-11-01T06:48:42.732278+00:00"
+    "checked_at": "2026-11-01T13:50:07.728305+00:00"
   },
   "consecutive_failures": 0
 }
