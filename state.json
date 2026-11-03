@@ -1,8 +1,8 @@
 {
   "version": 1,
   "created_at": "2026-10-25T11:24:47+00:00",
-  "last_check_at": "2026-11-03T07:48:56+00:00",
-  "last_success_at": "2026-11-03T07:48:56+00:00",
+  "last_check_at": "2026-11-03T15:29:23+00:00",
+  "last_success_at": "2026-11-03T15:29:23+00:00",
   "last_status": "announced",
   "status_since": "2026-11-01T13:50:07+00:00",
   "last_digest_at": "2026-11-01T13:50:07+00:00",
@@ -11,7 +11,7 @@
     "on_sale": "2026-10-31T14:51:18+00:00"
   },
   "stats": {
-    "runs": 28,
+    "runs": 29,
     "digests": 1,
     "alerts": 5,
     "failures": 0
@@ -194,7 +194,8 @@
     "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBpTzR0M1ZWcEJkODIxNTBzTTFUUE1BcjlwLXBpTldsNkFaTE5nV3p4TGdMcHRBeVBuRTRLR1h6eWpiZjY3TWdEa0J1aFFJcW5WdVBNZHdWOUlxM0RScHZ6cU1B?oc=5": "2026-11-02T18:20:13+00:00",
     "https://blog.naver.com/newsmans_/224462269026": "2026-11-02T18:20:13+00:00",
     "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBscGlFZVg3alh2LU5WZkRaQnlEWFFBUTVJLWFKY09SUVNlMjJJM1RRSk1lN0hNMHduMG04bmliWEZlQ3Nna2s3ZDRZVzRiMXJTb3I1R1ZGWXJveFpxWG9Qc9IBeEFVX3lxTE9ZMWMwNlBtRzBpeEZyWTNZVTVEYS1tMDJlNmNFWXMzUDloWjB1YXFvX1JPc0pzcy1HbUtmeGE4NlQzS2ZyNmJsYXV1SVk0b0JCeS1DSll1OU5DWGZNRDNxN0c5STdFdkRoeS1RaFNfdGtaZ1dpSE1KWg?oc=5": "2026-11-03T01:04:33+00:00",
-    "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HTElxek4yTHhITFM0STBSOGNrbzF5T2Jucm93UktRMUxCVll5eGRtVWlSN1FUVlM1OXJ3VnRxT2JzVVNZTzRPNW1GRnF5RDFZRzV0RFFkUzhvOXJ0VjZwWG1DY3IzYWxfakFkTlRET2FoQVY2?oc=5": "2026-11-03T01:04:33+00:00"
+    "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HTElxek4yTHhITFM0STBSOGNrbzF5T2Jucm93UktRMUxCVll5eGRtVWlSN1FUVlM1OXJ3VnRxT2JzVVNZTzRPNW1GRnF5RDFZRzV0RFFkUzhvOXJ0VjZwWG1DY3IzYWxfakFkTlRET2FoQVY2?oc=5": "2026-11-03T01:04:33+00:00",
+    "https://blog.naver.com/04shake/224463768860": "2026-11-03T15:29:23+00:00"
   },
   "last_snapshot": {
     "status": "announced",
@@ -205,7 +206,7 @@
       "'해밀턴' 월드 투어 캐스트 공개…부산·서울 11월 11일 티켓 오픈 - 엑스포츠뉴스",
       "뮤지컬 <해밀턴> 내한공연–서울 프리미어 티켓오픈 안내"
     ],
-    "checked_at": "2026-11-03T07:48:56.179227+00:00"
+    "checked_at": "2026-11-03T15:29:23.273668+00:00"
   },
   "consecutive_failures": 0
 }
