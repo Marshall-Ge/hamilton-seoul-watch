@@ -1,19 +1,19 @@
 {
   "version": 1,
   "created_at": "2026-10-25T11:24:47+00:00",
-  "last_check_at": "2026-11-03T15:29:23+00:00",
-  "last_success_at": "2026-11-03T15:29:23+00:00",
-  "last_status": "announced",
-  "status_since": "2026-11-01T13:50:07+00:00",
-  "last_digest_at": "2026-11-01T13:50:07+00:00",
+  "last_check_at": "2026-11-04T01:18:49+00:00",
+  "last_success_at": "2026-11-04T01:18:49+00:00",
+  "last_status": "on_sale",
+  "status_since": "2026-11-04T01:18:49+00:00",
+  "last_digest_at": "2026-11-04T01:18:49+00:00",
   "last_alert_at": {
     "announced": "2026-11-01T13:50:07+00:00",
-    "on_sale": "2026-10-31T14:51:18+00:00"
+    "on_sale": "2026-11-04T01:18:49+00:00"
   },
   "stats": {
-    "runs": 29,
+    "runs": 30,
     "digests": 1,
-    "alerts": 5,
+    "alerts": 6,
     "failures": 0
   },
   "seen": {
@@ -195,18 +195,21 @@
     "https://blog.naver.com/newsmans_/224462269026": "2026-11-02T18:20:13+00:00",
     "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBscGlFZVg3alh2LU5WZkRaQnlEWFFBUTVJLWFKY09SUVNlMjJJM1RRSk1lN0hNMHduMG04bmliWEZlQ3Nna2s3ZDRZVzRiMXJTb3I1R1ZGWXJveFpxWG9Qc9IBeEFVX3lxTE9ZMWMwNlBtRzBpeEZyWTNZVTVEYS1tMDJlNmNFWXMzUDloWjB1YXFvX1JPc0pzcy1HbUtmeGE4NlQzS2ZyNmJsYXV1SVk0b0JCeS1DSll1OU5DWGZNRDNxN0c5STdFdkRoeS1RaFNfdGtaZ1dpSE1KWg?oc=5": "2026-11-03T01:04:33+00:00",
     "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HTElxek4yTHhITFM0STBSOGNrbzF5T2Jucm93UktRMUxCVll5eGRtVWlSN1FUVlM1OXJ3VnRxT2JzVVNZTzRPNW1GRnF5RDFZRzV0RFFkUzhvOXJ0VjZwWG1DY3IzYWxfakFkTlRET2FoQVY2?oc=5": "2026-11-03T01:04:33+00:00",
-    "https://blog.naver.com/04shake/224463768860": "2026-11-03T15:29:23+00:00"
+    "https://blog.naver.com/04shake/224463768860": "2026-11-03T15:29:23+00:00",
+    "https://blog.naver.com/uniqueuni/224464337884": "2026-11-04T01:18:49+00:00",
+    "https://blog.naver.com/ouwang11/224463270336": "2026-11-04T01:18:49+00:00",
+    "https://blog.naver.com/blackfox__/224463349102": "2026-11-04T01:18:49+00:00"
   },
   "last_snapshot": {
-    "status": "announced",
+    "status": "on_sale",
     "top_titles": [
+      "해밀턴 뮤지컬 내한 서울 티켓팅 일정 캐스팅 티켓 가격 세종문화회관",
       "해밀턴 부산 티켓팅 11월 11일 오픈, 좌석 가격· 예매 순서 정리",
       "뮤지컬 해밀턴 내한 티켓 오픈은 11월 11일｜서울 오후 3시·부산 오후 2시, 가격과 날짜 한눈에",
-      "해밀턴 내한공연 첫 상륙! 11월 11일 티켓오픈·좌석 가격",
       "'해밀턴' 월드 투어 캐스트 공개…부산·서울 11월 11일 티켓 오픈 - 엑스포츠뉴스",
       "뮤지컬 <해밀턴> 내한공연–서울 프리미어 티켓오픈 안내"
     ],
-    "checked_at": "2026-11-03T15:29:23.273668+00:00"
+    "checked_at": "2026-11-04T01:18:49.526265+00:00"
   },
   "consecutive_failures": 0
 }
