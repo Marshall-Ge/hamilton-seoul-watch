@@ -1,8 +1,8 @@
 {
   "version": 1,
   "created_at": "2026-10-25T11:24:47+00:00",
-  "last_check_at": "2026-11-04T01:18:49+00:00",
-  "last_success_at": "2026-11-04T01:18:49+00:00",
+  "last_check_at": "2026-11-04T07:33:43+00:00",
+  "last_success_at": "2026-11-04T07:33:43+00:00",
   "last_status": "on_sale",
   "status_since": "2026-11-04T01:18:49+00:00",
   "last_digest_at": "2026-11-04T01:18:49+00:00",
@@ -11,7 +11,7 @@
     "on_sale": "2026-11-04T01:18:49+00:00"
   },
   "stats": {
-    "runs": 30,
+    "runs": 31,
     "digests": 1,
     "alerts": 6,
     "failures": 0
@@ -198,18 +198,24 @@
     "https://blog.naver.com/04shake/224463768860": "2026-11-03T15:29:23+00:00",
     "https://blog.naver.com/uniqueuni/224464337884": "2026-11-04T01:18:49+00:00",
     "https://blog.naver.com/ouwang11/224463270336": "2026-11-04T01:18:49+00:00",
-    "https://blog.naver.com/blackfox__/224463349102": "2026-11-04T01:18:49+00:00"
+    "https://blog.naver.com/blackfox__/224463349102": "2026-11-04T01:18:49+00:00",
+    "https://blog.naver.com/apple774/224464136858": "2026-11-04T07:33:43+00:00",
+    "https://m.naver.com/shorts/?mediaType=VOD&recId=%7B%22query%22%3A%22%ED%95%B4%EB%B0%80%ED%84%B4+%EC%98%88%EB%A7%A4%22%2C%22seedIndex%22%3A%221%22%2C%22type%22%3A%22ALL%22%2C%22order%22%3A%22RELATED%22%2C%22filter%22%3A%22LOW_QUALITY_LEVEL_3%22%2C%22theme%22%3A%22location%22%2C%22now%22%3A%220%22%7D&recType=CLIP_SEARCH&seedMediaId=92851AE4F52FABD5DC899C7C5F97885BFB1D&serviceType=CLIP": "2026-11-04T07:33:43+00:00",
+    "https://blog.naver.com/jekyll9207/224464604270": "2026-11-04T07:33:43+00:00",
+    "https://blog.naver.com/oja100/224464497285": "2026-11-04T07:33:43+00:00",
+    "https://blog.naver.com/0815kgb/224464545567": "2026-11-04T07:33:43+00:00",
+    "https://blog.naver.com/ticket_info/224464592370": "2026-11-04T07:33:43+00:00"
   },
   "last_snapshot": {
     "status": "on_sale",
     "top_titles": [
+      "뮤지컬 해밀턴 내한 1차 티켓팅 일정 및 예매 정보",
+      "[뮤지컬] 해밀턴 예매 정보 총정리｜캐스팅 선 예매 티켓가격 티켓팅 일정",
       "해밀턴 뮤지컬 내한 서울 티켓팅 일정 캐스팅 티켓 가격 세종문화회관",
-      "해밀턴 부산 티켓팅 11월 11일 오픈, 좌석 가격· 예매 순서 정리",
-      "뮤지컬 해밀턴 내한 티켓 오픈은 11월 11일｜서울 오후 3시·부산 오후 2시, 가격과 날짜 한눈에",
-      "'해밀턴' 월드 투어 캐스트 공개…부산·서울 11월 11일 티켓 오픈 - 엑스포츠뉴스",
-      "뮤지컬 <해밀턴> 내한공연–서울 프리미어 티켓오픈 안내"
+      "뮤지컬 해밀턴 내한공연 티켓 오픈 11월 11일 (부산 12월·서울 1월, 가격·캐스팅 정리)",
+      "[뮤지컬 해밀턴 ] 부산 & 서울 프리미어 티켓팅 완벽 가이드 : 11월 11일 오픈 일정 · 드림씨어터 vs ...."
     ],
-    "checked_at": "2026-11-04T01:18:49.526265+00:00"
+    "checked_at": "2026-11-04T07:33:43.725066+00:00"
   },
   "consecutive_failures": 0
 }
