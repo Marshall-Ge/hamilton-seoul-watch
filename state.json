@@ -1,8 +1,8 @@
 {
   "version": 1,
   "created_at": "2026-10-25T11:24:47+00:00",
-  "last_check_at": "2026-11-05T01:41:11+00:00",
-  "last_success_at": "2026-11-05T01:41:11+00:00",
+  "last_check_at": "2026-11-05T08:30:43+00:00",
+  "last_success_at": "2026-11-05T08:30:43+00:00",
   "last_status": "on_sale",
   "status_since": "2026-11-04T01:18:49+00:00",
   "last_digest_at": "2026-11-05T01:41:11+00:00",
@@ -11,7 +11,7 @@
     "on_sale": "2026-11-05T01:41:11+00:00"
   },
   "stats": {
-    "runs": 33,
+    "runs": 34,
     "digests": 1,
     "alerts": 7,
     "failures": 0
@@ -212,18 +212,22 @@
     "https://m.naver.com/shorts/?mediaType=VOD&recId=%7B%22query%22%3A%22%ED%95%B4%EB%B0%80%ED%84%B4+%EC%98%88%EB%A7%A4%22%2C%22seedIndex%22%3A%221%22%2C%22type%22%3A%22ALL%22%2C%22order%22%3A%22RELATED%22%2C%22filter%22%3A%22LOW_QUALITY_LEVEL_3%22%2C%22theme%22%3A%22location%22%2C%22now%22%3A%220%22%7D&recType=CLIP_SEARCH&seedMediaId=F63A32535DCF1259AFF8D0D35E98EA296CC1&serviceType=CLIP": "2026-11-05T01:41:11+00:00",
     "https://blog.naver.com/where_welive/224464397346": "2026-11-05T01:41:11+00:00",
     "https://blog.naver.com/judaright/224464585168": "2026-11-05T01:41:11+00:00",
-    "https://blog.naver.com/serese82/224464472684": "2026-11-05T01:41:11+00:00"
+    "https://blog.naver.com/serese82/224464472684": "2026-11-05T01:41:11+00:00",
+    "https://m.naver.com/shorts/?mediaType=VOD&recId=%7B%22query%22%3A%22%ED%95%B4%EB%B0%80%ED%84%B4+%EC%98%88%EB%A7%A4%22%2C%22seedIndex%22%3A%221%22%2C%22type%22%3A%22ALL%22%2C%22order%22%3A%22RELATED%22%2C%22filter%22%3A%22LOW_QUALITY_LEVEL_3%22%2C%22now%22%3A%220%22%7D&recType=CLIP_SEARCH&seedMediaId=F63A32535DCF1259AFF8D0D35E98EA296CC1&serviceType=CLIP": "2026-11-05T08:30:43+00:00",
+    "https://blog.naver.com/newsmans_/224465695310": "2026-11-05T08:30:43+00:00",
+    "https://blog.naver.com/heeyeon2__/224466175241": "2026-11-05T08:30:43+00:00",
+    "https://blog.naver.com/wedding-kjh/224466175557": "2026-11-05T08:30:43+00:00"
   },
   "last_snapshot": {
     "status": "on_sale",
     "top_titles": [
-      "해밀턴 뮤지컬 내한 서울 티켓팅 일정 캐스팅 티켓 가격 세종문화회관",
       "뮤지컬 해밀턴 내한 1차 티켓팅 일정 및 예매 정보",
       "[뮤지컬] 해밀턴 예매 정보 총정리｜캐스팅 선 예매 티켓가격 티켓팅 일정",
       "세종문화회관 공연 뮤지컬 해밀턴 부산 서울 티켓팅 예매 일정",
-      "# 해밀턴 #뮤지컬 해밀턴 # 해밀턴 내한 # 해밀턴 티켓오픈 # 해밀턴예매 ..."
+      "# 해밀턴 #뮤지컬 해밀턴 # 해밀턴 내한 # 해밀턴 티켓오픈 # 해밀턴예매 ...",
+      "해밀턴 서울 티켓팅 , 11월 11일 오후 3시 세종문화회관 개막 주간 VIP석 오픈"
     ],
-    "checked_at": "2026-11-05T01:41:11.110053+00:00"
+    "checked_at": "2026-11-05T08:30:43.703652+00:00"
   },
   "consecutive_failures": 0
 }
