@@ -1,19 +1,19 @@
 {
   "version": 1,
   "created_at": "2026-10-25T11:24:47+00:00",
-  "last_check_at": "2026-11-06T02:30:22+00:00",
-  "last_success_at": "2026-11-06T02:30:22+00:00",
+  "last_check_at": "2026-11-19T20:55:45+00:00",
+  "last_success_at": "2026-11-19T20:55:45+00:00",
   "last_status": "on_sale",
   "status_since": "2026-11-04T01:18:49+00:00",
-  "last_digest_at": "2026-11-06T02:30:22+00:00",
+  "last_digest_at": "2026-11-19T20:55:45+00:00",
   "last_alert_at": {
     "announced": "2026-11-01T13:50:07+00:00",
-    "on_sale": "2026-11-06T02:30:22+00:00"
+    "on_sale": "2026-11-19T20:55:45+00:00"
   },
   "stats": {
-    "runs": 36,
+    "runs": 37,
     "digests": 1,
-    "alerts": 8,
+    "alerts": 9,
     "failures": 0
   },
   "seen": {
@@ -221,18 +221,37 @@
     "https://blog.naver.com/gomi1212_/224466450423": "2026-11-05T16:40:47+00:00",
     "https://blog.naver.com/kwangnye_zip/224466376904": "2026-11-05T16:40:47+00:00",
     "https://blog.naver.com/syeon_unni/224466243667": "2026-11-05T16:40:47+00:00",
-    "https://blog.naver.com/sonpum_life/224465928450": "2026-11-06T02:30:22+00:00"
+    "https://blog.naver.com/sonpum_life/224465928450": "2026-11-06T02:30:22+00:00",
+    "https://www.sejongpac.or.kr/portal/bbs/B0000049/view.do?nttId=50258&menuNo=200440&pageIndex=1": "2026-11-19T20:55:45+00:00",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5YWVFCa0gyNVhBVTZGeUQ1M0NEY0YyVzVlRmtfUU9OR29CUXpBSXltSm83dE4xaV9nVEdwZHhUU2VKM1RwT0xoOHY3MVdOajFXREdHVjhDekN3d3lzRWc?oc=5": "2026-11-19T20:55:45+00:00",
+    "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBfSV9mTDBfU3VxaUxfWWVzYUdVbzZXZUx6S1VlenFEMWFNU2VCZmc4bWNpbGZGbWtDOE9KcnlRN0lpTGVpWEFRbGRzOHVBcXh4dmFoOXNjd3JzUjhlVzRtMFBn?oc=5": "2026-11-19T20:55:45+00:00",
+    "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB2RE5rRGtXTDZIZWtneVBJR2JQN0lxcFU4VmhVd0U5Um1HSnkxM3JHTUNlX3FsdU13R2doZjlMV1pORTdJMF9ocEJGSUlCajJEcERzSk9OUFc?oc=5": "2026-11-19T20:55:45+00:00",
+    "https://blog.naver.com/79mo/224470855401": "2026-11-19T20:55:45+00:00",
+    "https://blog.naver.com/choisj9039/224472677220": "2026-11-19T20:55:45+00:00",
+    "https://blog.naver.com/zsccfb/224484077791": "2026-11-19T20:55:45+00:00",
+    "https://m.naver.com/shorts?serviceType=MOMENT&mediaType=VOD&seedMediaId=3851BD51E3F7E0A69953A43F25F4E34AE9C3&recType=CLIP_PC&recId=%7B%22targetProfileId%22%3A%22MpBoW4NCJtbo8o0_qaM0%22%2C%22open%22%3Atrue%7D": "2026-11-19T20:55:45+00:00",
+    "https://m.naver.com/shorts/?mediaType=VOD&recId=%7B%22query%22%3A%22%ED%95%B4%EB%B0%80%ED%84%B4+%EC%98%88%EB%A7%A4%22%2C%22seedIndex%22%3A%222%22%2C%22type%22%3A%22ALL%22%2C%22order%22%3A%22RELATED%22%2C%22filter%22%3A%5B%22LOW_QUALITY_LEVEL_3%22%2C%22NXOPEN_0%22%5D%2C%22theme%22%3A%22location%22%2C%22now%22%3A%220%22%7D&recType=CLIP_SEARCH&seedMediaId=70EAC8A1FC51A76C7C18EAEEFB71A5BD30BF&serviceType=CLIP": "2026-11-19T20:55:45+00:00",
+    "https://blog.naver.com/kkulfarm-lab/224482875217": "2026-11-19T20:55:45+00:00",
+    "https://blog.naver.com/lianms92/224481160724": "2026-11-19T20:55:45+00:00",
+    "https://blog.naver.com/ouwang11/224480491253": "2026-11-19T20:55:45+00:00",
+    "https://blog.naver.com/33o0o33/224481252697": "2026-11-19T20:55:45+00:00",
+    "https://m.ticket.yes24.com/Notice/18754": "2026-11-19T20:55:45+00:00",
+    "https://blog.naver.com/musediet/224468919094": "2026-11-19T20:55:45+00:00",
+    "https://blog.naver.com/woobbbnn/224481857816": "2026-11-19T20:55:45+00:00",
+    "https://blog.naver.com/hotstory_now/224480543415": "2026-11-19T20:55:45+00:00",
+    "https://blog.naver.com/djeon0011/224468699736": "2026-11-19T20:55:45+00:00",
+    "https://blog.naver.com/yamyamjin_/224482052571": "2026-11-19T20:55:45+00:00"
   },
   "last_snapshot": {
     "status": "on_sale",
     "top_titles": [
-      "[뮤지컬] 해밀턴 예매 정보 총정리｜캐스팅 선 예매 티켓가격 티켓팅 일정",
       "세종문화회관 공연 뮤지컬 해밀턴 부산 서울 티켓팅 예매 일정",
-      "해밀턴 부산 티켓팅 11월 11일 | 회원 선 예매 시간·관람 연령 변경",
-      "# 해밀턴 #뮤지컬 해밀턴 # 해밀턴 내한 # 해밀턴 티켓오픈 # 해밀턴예매 ...",
+      "뮤지컬 해밀턴 내한공연 서울 2027 공연 정보｜1차 티켓오픈·가격· 예매",
+      "해밀턴 내한공연 티켓팅 가격 VIP 22만 원, 부산 11시·서울 14시 오픈",
+      "“티켓 구하기 가장 힘든” 뮤지컬 ‘해밀턴’ 부산·서울 공연, 11월 11일 프리미어 티켓 오픈 - ER 이코노믹리뷰",
       "브로드웨이 신드롬 ‘해밀턴’ 내한 \"전 세계 주역 총출동\"...11월 11일 티켓 오픈 - 에너지코리아뉴스"
     ],
-    "checked_at": "2026-11-06T02:30:22.336634+00:00"
+    "checked_at": "2026-11-19T20:55:45.567959+00:00"
   },
   "consecutive_failures": 0
 }
