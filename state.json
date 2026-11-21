@@ -1,8 +1,8 @@
 {
   "version": 1,
   "created_at": "2026-10-25T11:24:47+00:00",
-  "last_check_at": "2026-11-21T12:33:49+00:00",
-  "last_success_at": "2026-11-21T12:33:49+00:00",
+  "last_check_at": "2026-11-21T19:42:29+00:00",
+  "last_success_at": "2026-11-21T19:42:29+00:00",
   "last_status": "on_sale",
   "status_since": "2026-11-04T01:18:49+00:00",
   "last_digest_at": "2026-11-20T23:29:36+00:00",
@@ -11,7 +11,7 @@
     "on_sale": "2026-11-20T23:29:36+00:00"
   },
   "stats": {
-    "runs": 41,
+    "runs": 42,
     "digests": 1,
     "alerts": 10,
     "failures": 0
@@ -252,7 +252,9 @@
     "https://news.google.com/rss/articles/CBMilgFBVV95cUxNblZmcmNjak14Ti1jSVJ0bVprdlZ5U0FfUWk5bzhrOFRFQlNscVlybDc5UEhtVHhFeDVqdWtHbS0zb1gtSUt3aWowTDc1WW5QUG1KaXRDdXhoaXlTLU9OUG9mNllucF9ZVC1fSkVnSHdZeFBHX3UtNVpkUktNNk9QeGt4eDltYVpJai1yV05hZWNHVXVXVkE?oc=5": "2026-11-21T12:33:49+00:00",
     "https://blog.naver.com/miinn8/224485744053": "2026-11-21T12:33:49+00:00",
     "https://blog.naver.com/zhzh171017/224485106709": "2026-11-21T12:33:49+00:00",
-    "https://blog.naver.com/zoe321/224473517587": "2026-11-21T12:33:49+00:00"
+    "https://blog.naver.com/zoe321/224473517587": "2026-11-21T12:33:49+00:00",
+    "https://blog.naver.com/todaystarnote/224485909376": "2026-11-21T19:42:29+00:00",
+    "https://blog.naver.com/mobolnam/224486229611": "2026-11-21T19:42:29+00:00"
   },
   "last_snapshot": {
     "status": "on_sale",
@@ -263,7 +265,7 @@
       "브로드웨이 신드롬 ‘해밀턴’ 내한 \"전 세계 주역 총출동\"...11월 11일 티켓 오픈 - 에너지코리아뉴스",
       "'해밀턴' 월드 투어 캐스트 공개…부산·서울 11월 11일 티켓 오픈 - 엑스포츠뉴스"
     ],
-    "checked_at": "2026-11-21T12:33:49.455280+00:00"
+    "checked_at": "2026-11-21T19:42:29.656979+00:00"
   },
   "consecutive_failures": 0
 }
