@@ -1,8 +1,8 @@
 {
   "version": 1,
   "created_at": "2026-10-25T11:24:47+00:00",
-  "last_check_at": "2026-11-23T07:56:23+00:00",
-  "last_success_at": "2026-11-23T07:56:23+00:00",
+  "last_check_at": "2026-11-23T19:40:44+00:00",
+  "last_success_at": "2026-11-23T19:40:44+00:00",
   "last_status": "on_sale",
   "status_since": "2026-11-04T01:18:49+00:00",
   "last_digest_at": "2026-11-23T00:25:08+00:00",
@@ -11,7 +11,7 @@
     "on_sale": "2026-11-23T00:25:08+00:00"
   },
   "stats": {
-    "runs": 47,
+    "runs": 48,
     "digests": 1,
     "alerts": 12,
     "failures": 0
@@ -261,18 +261,31 @@
     "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTeUJVZVFNZ3daclZrWDZTSmIwLXpwcmtMTDZLdWxCSldYcWdyeGpWeEtOSVFzQURwVlA3ODNGeXRWaE5ReFkyamhMSUphQXVrbUJKYXJXVTZNMWvSAWBBVV95cUxNQUI1NkxQZE9mbmFxVzRPQ3BWbzRTeVBxR0FqNXZMbnRqRnMzdnM2WVBfUUJjcDluM2VnOFZ6UU40VkxnZ0JyWXZDR3JvNVpDSTBiSWhDWkthT3B3aXdQU3U?oc=5": "2026-11-23T00:25:08+00:00",
     "https://blog.naver.com/supseong24/224487779298": "2026-11-23T00:25:08+00:00",
     "https://news.google.com/rss/articles/CBMidEFVX3lxTE5DYXE5MmlvVFcwVFZkSm9vSE02RUhpZWFVZE5Vb2pxNzQwdE5xQmdfSWdSZ1RvZWlrY0lBbVRsdWR6cUtXT3pTamdIVE1vZVI3Yzg0WFB4OFR4cGZ3ajFwQ3pSek5SN2p1aDk2cnRCMWJjS090?oc=5": "2026-11-23T07:56:23+00:00",
-    "https://nol.yanolja.com/ticket/products/26015650": "2026-11-23T07:56:23+00:00"
+    "https://nol.yanolja.com/ticket/products/26015650": "2026-11-23T07:56:23+00:00",
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE95UnBsbHR2a29UWk5GbXQ2azBtLXZqZjlfMDBjNVV0QVJMSDBXVHNQWjhxcFIyM2JmX2o2OWpRektaVFlOekIwa0ZrMlpuSUhvOTIzdzI1Qm1ESXFfSzFBemxCazNkb0JB?oc=5": "2026-11-23T19:40:44+00:00",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1IRHRhREprajNtSnBsVWVFSnJ1UndEMFNnTzhlR3ZHWlRUak12QlByTWZVbHM1Z01aVjdSZXhsME5kX29CZVMyZk9JSUhNbkQ2cGF0bG5RcldfWDI3OEstejJSc25rbzEya0Rv0gFrQVVfeXFMTUhEdGFESmtqM21KcGxVZUVKcnVSd0QwU2dPOGVHdkdaVFRqTXZCUHJNZlVsczVnTVpWN1JleGwwTmRfb0JlUzJmT0lJSE1uRDZwYXRsblFyV19YMjc4Sy16MlJzbmtvMTJrRG8?oc=5": "2026-11-23T19:40:44+00:00",
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpdWdRSURLWG5lempmV2w4Ym9ubVVQUldHTDV2Zmp4YVU0S0lkQ0tTTTFObGw4ZF9NN1BoVzBBM1FSZm5yMFkxdFBRUGYxSE4zVGxvUkw4SHFWQVVvcU1WMDJXb0pEbzJNMndLR01n?oc=5": "2026-11-23T19:40:44+00:00",
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTE4wbWk3SWxMdUk4Q0ZKdGFiWkxlOF9Td2dlbUdQeXoyOUQ4aTZvQ2U5VHZ3alg0TG90UTNIMGJidDE1Qmx2Q3Y0bUNnQ2xPa05wdnpQVHRPQzRxUjEzRmJKc0kyYzYtVl9TdFIxYk930gFsQVVfeXFMUDEtNUZYY2FPSW51T1FwdTBXRmhfdi1DckhwY3kxa2lUNzhNZXJramY5dm1VaExMWEVWR3NBTjU5SXJmeWwtVHpwUVdDX3R0blNZVG1oT3BSbmRyLU82cF9WNlgzblBGRldhQVky?oc=5": "2026-11-23T19:40:44+00:00",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1zV2RsY253VTVHbzU3SU9CT180Q05NYWtQSUhGQ29hdUtsZC1IZmRXd0FKZW1mZUtFNmJKajhVcUxXQ2ZxNWtQSVVtNEgtY3BxTHR2bERBSmZRN3ducndvWnlNbEVBZw?oc=5": "2026-11-23T19:40:44+00:00",
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1MSjNQMTNfS2pCX1ZtVG9NclZoYW82TDlBUUE5NURDb2JyS1lfRjBmV01mUFBZWm5BS3FqOXlHXzd0aWlENVZVcW1VdzVXTll0Y1Jmdg?oc=5": "2026-11-23T19:40:44+00:00",
+    "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uN1ZIb0hBbVdRZE5iY3lXSzZHLUFPbWJsQUlxNGFXNXdTZkMyMTRWaExGNmEybUxRVGpiTGMzWEJ6eG5JN2NKYjBsd2xybjYyNmlnWE5idGZCeDc2ZDFPVNIBYEFVX3lxTE5uN1ZIb0hBbVdRZE5iY3lXSzZHLUFPbWJsQUlxNGFXNXdTZkMyMTRWaExGNmEybUxRVGpiTGMzWEJ6eG5JN2NKYjBsd2xybjYyNmlnWE5idGZCeDc2ZDFPVA?oc=5": "2026-11-23T19:40:44+00:00",
+    "https://news.google.com/rss/articles/CBMidkFVX3lxTE5meWt3d0Y1NndueE91eFg5cGxndWg2MHZQeGFsbWZXNVIxaFpnNnZ5cjRXb29sTlFlU1MxVDR4Wnd1WmM0N3NOLTJDVzdBY0JjZVl1Y0Rhbkg2dnVOb0h5SXBVNHpNU00yX3REMXp5OFN1VDNuV1HSAWZBVV95cUxNODNVUndFdzd0bmRmNGFQWDlzbnY0dXBTRG94UVpUcnJ4YjVoc3RNMS11RWV6THNFRzJFMXo0QzNtcFl5anhiZ2sxLUVwdk10SzNEcE5FeC14R1llVzVJRDhCWUt4aEE?oc=5": "2026-11-23T19:40:44+00:00",
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUakwzaHBZRHljd3FfeUpDMGFmQkxnMUFLNUdFZVN5cU1aOHRLQWhKUWR0ZTlMdTNmN093Z3N5S0tTZk5KQ2pMUTZwMy0wNG1fMUExLVhzM3lwZHkybkhVa3lwMk95SFUw?oc=5": "2026-11-23T19:40:44+00:00",
+    "https://blog.naver.com/rebirtharmy/224488563900": "2026-11-23T19:40:44+00:00",
+    "https://blog.naver.com/424242_/224488404739": "2026-11-23T19:40:44+00:00",
+    "https://www.etoday.co.kr/news/view/2651801": "2026-11-23T19:40:44+00:00",
+    "https://ent.sbs.co.kr/news/article.do?article_id=E10010325044&plink=ORI&cooper=NAVER": "2026-11-23T19:40:44+00:00"
   },
   "last_snapshot": {
     "status": "on_sale",
     "top_titles": [
       "세종문화회관 공연 뮤지컬 해밀턴 부산 서울 티켓팅 예매 일정",
+      "뮤지컬 해밀턴 내한공연 서울 티켓오픈 일정｜세종문화회관 티켓 가격·공연 정보",
       "“티켓 구하기 가장 힘든” 뮤지컬 ‘해밀턴’ 부산·서울 공연, 11월 11일 프리미어 티켓 오픈 - ER 이코노믹리뷰",
       "브로드웨이 신드롬 ‘해밀턴’ 내한 \"전 세계 주역 총출동\"...11월 11일 티켓 오픈 - 에너지코리아뉴스",
-      "'해밀턴' 월드 투어 캐스트 공개…부산·서울 11월 11일 티켓 오픈 - 엑스포츠뉴스",
-      "뮤지컬 <해밀턴> 내한공연–서울 프리미어 티켓오픈 안내"
+      "'해밀턴' 월드 투어 캐스트 공개…부산·서울 11월 11일 티켓 오픈 - 엑스포츠뉴스"
     ],
-    "checked_at": "2026-11-23T07:56:23.549709+00:00"
+    "checked_at": "2026-11-23T19:40:44.414075+00:00"
   },
   "consecutive_failures": 0
 }
