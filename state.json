@@ -1,19 +1,19 @@
 {
   "version": 1,
   "created_at": "2026-10-25T11:24:47+00:00",
-  "last_check_at": "2026-11-23T19:40:44+00:00",
-  "last_success_at": "2026-11-23T19:40:44+00:00",
+  "last_check_at": "2026-11-24T04:26:17+00:00",
+  "last_success_at": "2026-11-24T04:26:17+00:00",
   "last_status": "on_sale",
   "status_since": "2026-11-04T01:18:49+00:00",
-  "last_digest_at": "2026-11-23T00:25:08+00:00",
+  "last_digest_at": "2026-11-24T04:26:17+00:00",
   "last_alert_at": {
     "announced": "2026-11-01T13:50:07+00:00",
-    "on_sale": "2026-11-23T00:25:08+00:00"
+    "on_sale": "2026-11-24T04:26:17+00:00"
   },
   "stats": {
-    "runs": 48,
+    "runs": 49,
     "digests": 1,
-    "alerts": 12,
+    "alerts": 13,
     "failures": 0
   },
   "seen": {
@@ -274,7 +274,17 @@
     "https://blog.naver.com/rebirtharmy/224488563900": "2026-11-23T19:40:44+00:00",
     "https://blog.naver.com/424242_/224488404739": "2026-11-23T19:40:44+00:00",
     "https://www.etoday.co.kr/news/view/2651801": "2026-11-23T19:40:44+00:00",
-    "https://ent.sbs.co.kr/news/article.do?article_id=E10010325044&plink=ORI&cooper=NAVER": "2026-11-23T19:40:44+00:00"
+    "https://ent.sbs.co.kr/news/article.do?article_id=E10010325044&plink=ORI&cooper=NAVER": "2026-11-23T19:40:44+00:00",
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5vTno5RHBLeURXYVpqUTRYeVlqNmxUaWczV0NEd1RKNldxX0JPd0dCTDZsdElzSnc3RFEtTU10UE1GNExwR1JwRlNGVUdxanEwU245OA?oc=5": "2026-11-24T04:26:17+00:00",
+    "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9xbWN1NFdid01TdFl0UGQyOXhKRHQyblBzN29PUG05NUM5Z1pyR2pQQjZsaXNYa2xvNlJQYVAxYm5BRjVmUWJwMlNiWmQ?oc=5": "2026-11-24T04:26:17+00:00",
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkZ1V4T1U4WEVDcmZ3a242aU14RlZhb2VDMzk4aDZtbWo1cVZBTWlQcGJlRmRUVHFnS3JQckNjV2pfWkZXZUd6N1dFSkZXVEs5V09Z?oc=5": "2026-11-24T04:26:17+00:00",
+    "https://news.google.com/rss/articles/CBMijgJBVV95cUxPd3JGSTdwYS1NeVJtb1ZEMGFlbjRBcFlLTUtya2JnZmk5djM1N09nMW1XNFFHREhOdXIwZDN6WWpDTkp3NnJjS3BDcWp1ZjNSbS01UkliWGJHSi1RWEo0czU3SHlzTXFEMkNUUlFFWmlCcXlsQTdnMlR2MjlDY0NTeEVOMHU0VXUzS2dlakFPSGx5eGRFa0RPdHdjTjE1UFVuMkVUS3VYanJVeE9GcTNVV1FiR1ZFVHBNWFVVTS0zdV9jTTlvYjVVc09YMXdoakx3dk1kTVBHNGJjejM2ZE9VaEJIS3dqcHh2T3l2X1lBbTR1cGZiOEoySVlXU3g0Uk9NOGhzaW1hcC1kelZacWc?oc=5": "2026-11-24T04:26:17+00:00",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rbG9kR1NjWl9lMzNUOEt5RXlYbFVoQnFWZFRxUVVNeWVjb1Z1eDVnTnNLLUY4a0w3UmpQRjBTcWtiRWpBcEc5UGtTX21uRFhuXzcwb2FPejVNbTBOYnM3TWg3UVBwRlNGR0E?oc=5": "2026-11-24T04:26:17+00:00",
+    "https://m.naver.com/shorts/?mediaType=VOD&recId=%7B%22query%22%3A%22%ED%95%B4%EB%B0%80%ED%84%B4+%EC%98%88%EB%A7%A4%22%2C%22seedIndex%22%3A%221%22%2C%22type%22%3A%22ALL%22%2C%22order%22%3A%22RELATED%22%2C%22filter%22%3A%5B%22LOW_QUALITY_LEVEL_3%22%2C%22NXOPEN_0%22%5D%2C%22now%22%3A%220%22%7D&recType=CLIP_SEARCH&seedMediaId=3B646A1BCCED6C41D545A90459625FED9D76&serviceType=CLIP": "2026-11-24T04:26:17+00:00",
+    "https://blog.naver.com/bomiwon63/224488900281": "2026-11-24T04:26:17+00:00",
+    "https://blog.naver.com/jekyll9207/224489675486": "2026-11-24T04:26:17+00:00",
+    "https://blog.naver.com/dream_theone/224489684940": "2026-11-24T04:26:17+00:00",
+    "https://www.xportsnews.com/article/2222208": "2026-11-24T04:26:17+00:00"
   },
   "last_snapshot": {
     "status": "on_sale",
@@ -285,7 +295,7 @@
       "브로드웨이 신드롬 ‘해밀턴’ 내한 \"전 세계 주역 총출동\"...11월 11일 티켓 오픈 - 에너지코리아뉴스",
       "'해밀턴' 월드 투어 캐스트 공개…부산·서울 11월 11일 티켓 오픈 - 엑스포츠뉴스"
     ],
-    "checked_at": "2026-11-23T19:40:44.414075+00:00"
+    "checked_at": "2026-11-24T04:26:17.415333+00:00"
   },
   "consecutive_failures": 0
 }
