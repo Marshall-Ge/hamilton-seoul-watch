@@ -1,19 +1,19 @@
 {
   "version": 1,
   "created_at": "2026-10-25T11:24:47+00:00",
-  "last_check_at": "2026-11-24T23:50:23+00:00",
-  "last_success_at": "2026-11-24T23:50:23+00:00",
+  "last_check_at": "2026-11-25T05:42:34+00:00",
+  "last_success_at": "2026-11-25T05:42:34+00:00",
   "last_status": "on_sale",
   "status_since": "2026-11-04T01:18:49+00:00",
-  "last_digest_at": "2026-11-24T04:26:17+00:00",
+  "last_digest_at": "2026-11-25T05:42:34+00:00",
   "last_alert_at": {
     "announced": "2026-11-01T13:50:07+00:00",
-    "on_sale": "2026-11-24T04:26:17+00:00"
+    "on_sale": "2026-11-25T05:42:34+00:00"
   },
   "stats": {
-    "runs": 51,
+    "runs": 52,
     "digests": 1,
-    "alerts": 13,
+    "alerts": 14,
     "failures": 0
   },
   "seen": {
@@ -296,18 +296,29 @@
     "https://blog.naver.com/story-83/224489460713": "2026-11-24T15:03:58+00:00",
     "https://blog.naver.com/gil-a1/224489721223": "2026-11-24T15:03:58+00:00",
     "https://blog.naver.com/zerojin_94/224490600559": "2026-11-24T15:03:58+00:00",
-    "https://search.pstatic.net/sunny?src=https%3A%2F%2Fwww.sejongpac.or.kr%2Fcmmn%2Ffile%2FlinkedxmlImg.do%3FperformIdx%3D37873%26ver%3D2%26mainYn%3DY&type=fff208_208_ar": "2026-11-24T23:50:23+00:00"
+    "https://search.pstatic.net/sunny?src=https%3A%2F%2Fwww.sejongpac.or.kr%2Fcmmn%2Ffile%2FlinkedxmlImg.do%3FperformIdx%3D37873%26ver%3D2%26mainYn%3DY&type=fff208_208_ar": "2026-11-24T23:50:23+00:00",
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcDB0Z3lHdXRFSlRQQUZERUN6OWdVTEVpdjJQdWduYkY3SlIwNU5GZU1aUVA5Yy1tb1pXaTBpOUx0NlQ1Q1RCOWlUYkJZLW92dGhqRmZ6cVNjUnE4VFNQMExwX2pvdWpLMkRYN0RScXR0Rjl2MV96aTRVbUlIVk9KcndCVXh1aXNHV0V0b3BDcUJEUnE4Y2c?oc=5": "2026-11-25T05:42:34+00:00",
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81aU9td2ZDVlUzWlRGSWlKY3lCSnVVLTJUY1BTeEM3bDh0MzltYWo5TW56ZHYzTUJCOXVpU2Q1dU1hWnRQVFFWNEhwLVMzZUdSem1fb3RESTRxQQ?oc=5": "2026-11-25T05:42:34+00:00",
+    "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5objlNODBtTm84TFV3LU80NVY5VzVzR1hJTkRLMWZrYlJ0eGRQdmNoRS1qd1BPdXBESlE0QWxOcWx2MDhUNWRHcm90ekFxS1dvcWVqT01XWFJsM0pi?oc=5": "2026-11-25T05:42:34+00:00",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBZd1F4TTdpOWxJUVZNNlExel9LOXRTRzhQZmFINXh5U0hXRUdfV1R4RmVPbl9hTDNMWTg5QXlzejV2UWdGYWZXYjNObjEzMUZ2QW5Cc3hUX2czZ2Qxdnc?oc=5": "2026-11-25T05:42:34+00:00",
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE01UU9qOV9udFVieGZyS0Q4X0dETkVGTEVWNEpyamxxcmVUTnNoUllmZDBsQTBjSVlQUjNZUERQN0wtMzZuak56SDByN25uQ2NibzE2Tg?oc=5": "2026-11-25T05:42:34+00:00",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tdjZKSUxxUGZ3akg2U2ZKVWRtZFZiaGNDaFBWc0dIcEpydDRaZVI5VTlwOFBzVWxhUnJDM0p6ekpIUXRxUEJncms1MTdSM2RCR3BmSXpKaGdxdlgxbXd6ZF82ZmRfUQ?oc=5": "2026-11-25T05:42:34+00:00",
+    "https://blog.naver.com/joo1609/224491014464": "2026-11-25T05:42:34+00:00",
+    "https://blog.naver.com/blackpinkinseoul/224491085397": "2026-11-25T05:42:34+00:00",
+    "https://blog.naver.com/white0dream/224490648282": "2026-11-25T05:42:34+00:00",
+    "https://blog.naver.com/1st_restart/224490685076": "2026-11-25T05:42:34+00:00",
+    "https://www.dailian.co.kr/news/view/1706754/?sc=Naver": "2026-11-25T05:42:34+00:00"
   },
   "last_snapshot": {
     "status": "on_sale",
     "top_titles": [
-      "“티켓 구하기 가장 힘든” 뮤지컬 ‘해밀턴’ 부산·서울 공연, 11월 11일 프리미어 티켓 오픈 - ER 이코노믹리뷰",
-      "브로드웨이 신드롬 ‘해밀턴’ 내한 \"전 세계 주역 총출동\"...11월 11일 티켓 오픈 - 에너지코리아뉴스",
-      "'해밀턴' 월드 투어 캐스트 공개…부산·서울 11월 11일 티켓 오픈 - 엑스포츠뉴스",
-      "뮤지컬 <해밀턴> 내한공연–서울 프리미어 티켓오픈 안내",
-      "뮤지컬 <해밀턴> 내한공연–서울 1차 티켓오픈 안내"
+      "세종문화회관 공연 뮤지컬 해밀턴 부산 서울 티켓팅 예매 일정",
+      "뮤지컬 해밀턴 ·레베카 티켓팅 총정리｜서울·부산 해밀턴 1차 예매 , 레베카 3차 티켓 오픈 일정 및....",
+      "뮤지컬 < 해밀턴 > 부산 프리뷰 서울 1차 티켓팅 예매 일정 가격 줄거리 해외 내한공연",
+      "드디어 온다! 뮤지컬 〈 해밀턴 〉 내한공연 서울 티켓팅 총정리 (일정, 좌석 가격 & 예매 링크)",
+      "뮤지컬 < 해밀턴 > 서울공연 1차 티켓팅 || 일정 좌석 예매 처 캐스팅 좌석배치도 세종문화회관"
     ],
-    "checked_at": "2026-11-24T23:50:23.316577+00:00"
+    "checked_at": "2026-11-25T05:42:34.542309+00:00"
   },
   "consecutive_failures": 0
 }
