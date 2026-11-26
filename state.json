@@ -1,19 +1,19 @@
 {
   "version": 1,
   "created_at": "2026-10-25T11:24:47+00:00",
-  "last_check_at": "2026-11-26T00:12:20+00:00",
-  "last_success_at": "2026-11-26T00:12:20+00:00",
+  "last_check_at": "2026-11-26T08:11:48+00:00",
+  "last_success_at": "2026-11-26T08:11:48+00:00",
   "last_status": "on_sale",
   "status_since": "2026-11-04T01:18:49+00:00",
-  "last_digest_at": "2026-11-25T05:42:34+00:00",
+  "last_digest_at": "2026-11-26T08:11:48+00:00",
   "last_alert_at": {
     "announced": "2026-11-01T13:50:07+00:00",
-    "on_sale": "2026-11-25T05:42:34+00:00"
+    "on_sale": "2026-11-26T08:11:48+00:00"
   },
   "stats": {
-    "runs": 54,
+    "runs": 55,
     "digests": 1,
-    "alerts": 14,
+    "alerts": 15,
     "failures": 0
   },
   "seen": {
@@ -323,18 +323,30 @@
     "https://blog.naver.com/eksk719/224492320853": "2026-11-26T00:12:20+00:00",
     "https://blog.naver.com/dandi_0829/224492215413": "2026-11-26T00:12:20+00:00",
     "https://blog.naver.com/curtaincallnote/224492589237": "2026-11-26T00:12:20+00:00",
-    "https://blog.naver.com/dandi_0829/224492182273": "2026-11-26T00:12:20+00:00"
+    "https://blog.naver.com/dandi_0829/224492182273": "2026-11-26T00:12:20+00:00",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9RSkV2bGNTcm9kbHVqaHd5cHVMSkxCVlBIZ2h2ZkVnWHg2SE1TOXNiUWt6YWcxMUZUWkxkNUk2c2UxZkdzQkYwbkxkVGlSV0VFN09DcDZlUS1aaERGY3VwR193d2FRVWlfSmc?oc=5": "2026-11-26T08:11:48+00:00",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aUHJGTmVzMDBrUUJJTmJER1ZuV2ZiLXR4NU9QVWhQOWk3ejFDdGdvOHJsX0g0bDN3T29uYzdqRUNFWl90S0t2bm4zU0s3QjMtVFZrRHhiTmM1MXVpcmxZaFpCRTgwVlM3cXNmRw?oc=5": "2026-11-26T08:11:48+00:00",
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNktTVG9US2JwOFJJd2M5RFM3V0dyalppMGJiNjRsaExQNEFoOTZKMk0xSklYRnBWQU01RW9yaG5uc3M0VWNXNElMclR5WHJDUnQ3aVhKaG1lNldfMjAwZG1BbUpYUTMtSm9pa19pUk9kb0cwUFJtbWIyVDNmWmVtbXkyQ3g?oc=5": "2026-11-26T08:11:48+00:00",
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTE12REFnRm92NjgwS1hrZ19ReUhOc2YxQ1BJZDBnM0VuMHFubjU0dVRGc0RrT0N5S1pIRU1TdFRyYTRTOFBzcGdwNFl0VGNwWVJaUW9OOVoyTWstSkJZM1ZNS1lUQ3BERVF4Ymtsa3Jn?oc=5": "2026-11-26T08:11:48+00:00",
+    "https://blog.naver.com/issuespark/224492816170": "2026-11-26T08:11:48+00:00",
+    "https://blog.naver.com/apple0504-/224492555798": "2026-11-26T08:11:48+00:00",
+    "https://blog.naver.com/gosummer26/224492700524": "2026-11-26T08:11:48+00:00",
+    "https://blog.naver.com/sinazugawa/224493154863": "2026-11-26T08:11:48+00:00",
+    "https://blog.naver.com/tvtongtong/224492637567": "2026-11-26T08:11:48+00:00",
+    "https://blog.naver.com/killon2000/224493000234": "2026-11-26T08:11:48+00:00",
+    "https://blog.naver.com/dltlwls5633/224492220414": "2026-11-26T08:11:48+00:00",
+    "https://blog.naver.com/with_art_official/224492622811": "2026-11-26T08:11:48+00:00"
   },
   "last_snapshot": {
     "status": "on_sale",
     "top_titles": [
-      "세종문화회관 공연 뮤지컬 해밀턴 부산 서울 티켓팅 예매 일정",
+      "뮤지컬 해밀턴 내한 서울 1차 티켓오픈 오늘 오후 2시 | 11/26(목) 세종문화회관 가격·회차· 예매 처",
       "뮤지컬 〈 해밀턴 〉 내한 오늘 티켓 오픈 , 부산 프리뷰 11시 서울 1차 14시 회차 할인가 스페셜 티켓 ....",
-      "오늘(11/26) 티켓 오픈! 뮤지컬 〈 해밀턴 〉 내한공연 서울 1차·부산 프리뷰 예매 처·가격·스페셜 티....",
-      "뮤지컬 해밀턴 내한 티켓팅 ! 11월 26일 예매 시간·가격·서울 부산 좌석 총정리",
-      "뮤지컬 ‘해밀턴’ 한국 초연…11월 26일 서울·부산 티켓 오픈 - ER 이코노믹리뷰"
+      "뮤지컬 ‘해밀턴’ 한국 초연…11월 26일 서울·부산 티켓 오픈 - ER 이코노믹리뷰",
+      "브로드웨이 뮤지컬 해밀턴 서울 1차 티켓오픈 선예매 공연 기본 정보",
+      "뮤지컬 《 해밀턴 》 첫 내한공연｜11월 26일 티켓팅 ·서울 부산 일정·좌석 가격·캐스팅 정리"
     ],
-    "checked_at": "2026-11-26T00:12:20.614419+00:00"
+    "checked_at": "2026-11-26T08:11:48.166636+00:00"
   },
   "consecutive_failures": 0
 }
